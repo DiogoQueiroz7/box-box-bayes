@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,66,33,1
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,VER,Max Verstappen,Red Bull Racing,3,2,0,0,0,66,33,2
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,BOT,Valtteri Bottas,Mercedes,2,3,0,0,0,66,33,3
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,STR,Lance Stroll,Racing Point,5,4,0,0,0,66,33,5
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,PER,Sergio Perez,Racing Point,4,5,0,0,0,66,33,6
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,SAI,Carlos Sainz,McLaren,7,6,0,0,0,66,33,7
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,VET,Sebastian Vettel,Ferrari,11,7,0,0,0,66,33,14
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,ALB,Alexander Albon,Red Bull Racing,6,8,0,0,0,66,33,8
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,GAS,Pierre Gasly,AlphaTauri,10,9,0,0,0,66,33,10
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,NOR,Lando Norris,McLaren,8,10,0,0,0,66,33,11
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,RIC,Daniel Ricciardo,Renault,13,11,0,0,0,66,33,4
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,KVY,Daniil Kvyat,AlphaTauri,12,12,0,0,0,66,33,13
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,OCO,Esteban Ocon,Renault,15,13,0,0,0,66,33,9
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,RAI,Kimi Räikkönen,Alfa Romeo Racing,14,14,0,0,0,66,33,16
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,MAG,Kevin Magnussen,Haas F1 Team,16,15,0,0,0,66,33,18
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,GIO,Antonio Giovinazzi,Alfa Romeo Racing,20,16,0,0,0,66,33,17
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,RUS,George Russell,Williams,18,17,0,0,0,66,33,15
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,LAT,Nicholas Latifi,Williams,19,18,0,0,0,66,33,20
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,GRO,Romain Grosjean,Haas F1 Team,17,19,0,0,0,66,33,19
+2020-06,2020,6,Spanish Grand Prix,Barcelona,2020-08-16,LEC,Charles Leclerc,Ferrari,9,20,0,0,0,66,33,12

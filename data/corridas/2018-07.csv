@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,VET,Sebastian Vettel,Ferrari,1,1,1,0,0,70,35,1
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,BOT,Valtteri Bottas,Mercedes,2,2,0,0,0,70,35,2
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,VER,Max Verstappen,Red Bull Racing,3,3,0,0,0,70,35,3
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,RIC,Daniel Ricciardo,Red Bull Racing,6,4,0,0,0,70,35,4
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,HAM,Lewis Hamilton,Mercedes,4,5,0,0,0,70,35,5
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,RAI,Kimi Räikkönen,Ferrari,5,6,0,0,0,70,35,6
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,HUL,Nico Hulkenberg,Renault,7,7,0,0,0,70,35,7
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,SAI,Carlos Sainz,Renault,9,8,0,0,0,70,35,8
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,OCO,Esteban Ocon,Force India,8,9,0,0,0,70,35,10
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,LEC,Charles Leclerc,Sauber,13,10,0,0,0,70,35,12
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,GAS,Pierre Gasly,Toro Rosso,16,11,0,0,0,70,35,13
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,GRO,Romain Grosjean,Haas F1 Team,20,12,0,0,0,70,35,9
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,MAG,Kevin Magnussen,Haas F1 Team,11,13,0,0,0,70,35,15
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,PER,Sergio Perez,Force India,10,14,0,0,0,70,35,14
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,ERI,Marcus Ericsson,Sauber,19,15,0,0,0,70,35,17
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,VAN,Stoffel Vandoorne,McLaren,15,16,0,0,0,70,35,16
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,SIR,Sergey Sirotkin,Williams,18,17,0,0,0,70,35,18
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,ALO,Fernando Alonso,McLaren,14,18,0,0,0,70,35,11
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,HAR,Brendon Hartley,Toro Rosso,12,19,0,0,0,70,35,
+2018-07,2018,7,Canadian Grand Prix,Montréal,2018-06-10,STR,Lance Stroll,Williams,17,20,0,0,0,70,35,

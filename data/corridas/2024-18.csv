@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,NOR,Lando Norris,McLaren,1,1,1,0,0,62,31,1
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,VER,Max Verstappen,Red Bull Racing,2,2,0,0,0,62,31,3
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,PIA,Oscar Piastri,McLaren,5,3,0,0,0,62,31,2
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,RUS,George Russell,Mercedes,4,4,0,0,0,62,31,5
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,LEC,Charles Leclerc,Ferrari,9,5,0,0,0,62,31,4
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,HAM,Lewis Hamilton,Mercedes,3,6,0,0,0,62,31,6
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,SAI,Carlos Sainz,Ferrari,10,7,0,0,0,62,31,8
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,ALO,Fernando Alonso,Aston Martin,7,8,0,0,0,62,31,9
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,HUL,Nico Hulkenberg,Haas F1 Team,6,9,0,0,0,62,31,10
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,PER,Sergio Perez,Red Bull Racing,13,10,0,0,0,62,31,11
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,COL,Franco Colapinto,Williams,12,11,0,0,0,62,31,12
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,TSU,Yuki Tsunoda,RB,8,12,0,0,0,62,31,7
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,OCO,Esteban Ocon,Alpine,15,13,0,0,0,62,31,17
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,STR,Lance Stroll,Aston Martin,17,14,0,0,0,62,31,19
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,ZHO,Guanyu Zhou,Kick Sauber,20,15,0,0,0,62,31,15
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,BOT,Valtteri Bottas,Kick Sauber,19,16,0,0,0,62,31,16
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,GAS,Pierre Gasly,Alpine,18,17,0,0,0,62,31,13
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,RIC,Daniel Ricciardo,RB,16,18,0,0,0,62,31,14
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,MAG,Kevin Magnussen,Haas F1 Team,14,19,0,0,0,62,31,18
+2024-18,2024,18,Singapore Grand Prix,Marina Bay,2024-09-22,ALB,Alexander Albon,Williams,11,20,0,0,0,62,31,

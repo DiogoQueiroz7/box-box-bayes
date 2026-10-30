@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,53,27,1
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,VER,Max Verstappen,Red Bull Racing,4,2,0,0,0,53,27,4
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,RAI,Kimi Räikkönen,Ferrari,6,3,0,0,0,53,27,3
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,RIC,Daniel Ricciardo,Red Bull Racing,5,4,0,0,0,53,27,2
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,VET,Sebastian Vettel,Ferrari,3,5,0,0,0,53,27,5
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,MAG,Kevin Magnussen,Haas F1 Team,9,6,0,0,0,53,27,6
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,BOT,Valtteri Bottas,Mercedes,2,7,0,0,0,53,27,9
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,SAI,Carlos Sainz,Renault,7,8,0,0,0,53,27,14
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,HUL,Nico Hulkenberg,Renault,12,9,0,0,0,53,27,7
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,LEC,Charles Leclerc,Sauber,8,10,0,0,0,53,27,8
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,GRO,Romain Grosjean,Haas F1 Team,10,11,0,0,0,53,27,10
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,VAN,Stoffel Vandoorne,McLaren,17,12,0,0,0,53,27,12
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,ERI,Marcus Ericsson,Sauber,15,13,0,0,0,53,27,15
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,HAR,Brendon Hartley,Toro Rosso,20,14,0,0,0,53,27,13
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,SIR,Sergey Sirotkin,Williams,18,15,0,0,0,53,27,18
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,ALO,Fernando Alonso,McLaren,16,16,0,0,0,53,27,16
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,STR,Lance Stroll,Williams,19,17,0,0,0,53,27,17
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,PER,Sergio Perez,Force India,13,18,0,0,0,53,27,11
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,OCO,Esteban Ocon,Force India,11,19,0,0,0,53,27,
+2018-08,2018,8,French Grand Prix,Le Castellet,2018-06-24,GAS,Pierre Gasly,Toro Rosso,14,20,0,0,0,53,27,

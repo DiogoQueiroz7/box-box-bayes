@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,RUS,George Russell,Mercedes,1,1,1,0,0,50,25,1
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,HAM,Lewis Hamilton,Mercedes,10,2,0,0,0,50,25,5
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,SAI,Carlos Sainz,Ferrari,2,3,0,0,0,50,25,3
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,LEC,Charles Leclerc,Ferrari,4,4,0,0,0,50,25,4
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,VER,Max Verstappen,Red Bull Racing,5,5,0,0,0,50,25,2
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,NOR,Lando Norris,McLaren,6,6,0,0,0,50,25,6
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,PIA,Oscar Piastri,McLaren,8,7,0,0,0,50,25,9
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,HUL,Nico Hulkenberg,Haas F1 Team,9,8,0,0,0,50,25,8
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,TSU,Yuki Tsunoda,RB,7,9,0,0,0,50,25,7
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,PER,Sergio Perez,Red Bull Racing,15,10,0,0,0,50,25,11
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,ALO,Fernando Alonso,Aston Martin,16,11,0,0,0,50,25,17
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,MAG,Kevin Magnussen,Haas F1 Team,12,12,0,0,0,50,25,18
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,ZHO,Guanyu Zhou,Kick Sauber,13,13,0,0,0,50,25,10
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,COL,Franco Colapinto,Williams,20,14,0,0,0,50,25,16
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,STR,Lance Stroll,Aston Martin,18,15,0,0,0,50,25,15
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,LAW,Liam Lawson,RB,14,16,0,0,0,50,25,12
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,OCO,Esteban Ocon,Alpine,11,17,0,0,0,50,25,13
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,BOT,Valtteri Bottas,Kick Sauber,19,18,0,0,0,50,25,19
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,ALB,Alexander Albon,Williams,17,19,0,0,0,50,25,14
+2024-22,2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,GAS,Pierre Gasly,Alpine,3,20,0,0,0,50,25,

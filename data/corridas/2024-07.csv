@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,63,32,1
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,NOR,Lando Norris,McLaren,2,2,0,0,0,63,32,2
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,LEC,Charles Leclerc,Ferrari,3,3,0,0,0,63,32,3
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,PIA,Oscar Piastri,McLaren,5,4,0,0,0,63,32,4
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,SAI,Carlos Sainz,Ferrari,4,5,0,0,0,63,32,5
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,HAM,Lewis Hamilton,Mercedes,8,6,0,0,0,63,32,8
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,RUS,George Russell,Mercedes,6,7,0,0,0,63,32,6
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,PER,Sergio Perez,Red Bull Racing,11,8,0,0,0,63,32,7
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,STR,Lance Stroll,Aston Martin,13,9,0,0,0,63,32,9
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,TSU,Yuki Tsunoda,RB,7,10,0,0,0,63,32,12
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,HUL,Nico Hulkenberg,Haas F1 Team,10,11,0,0,0,63,32,13
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,MAG,Kevin Magnussen,Haas F1 Team,18,12,0,0,0,63,32,10
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,RIC,Daniel Ricciardo,RB,9,13,0,0,0,63,32,14
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,OCO,Esteban Ocon,Alpine,12,14,0,0,0,63,32,17
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,ZHO,Guanyu Zhou,Kick Sauber,17,15,0,0,0,63,32,11
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,GAS,Pierre Gasly,Alpine,15,16,0,0,0,63,32,18
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,SAR,Logan Sargeant,Williams,19,17,0,0,0,63,32,19
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,BOT,Valtteri Bottas,Kick Sauber,16,18,0,0,0,63,32,15
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,ALO,Fernando Alonso,Aston Martin,20,19,0,0,0,63,32,16
+2024-07,2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,ALB,Alexander Albon,Williams,14,20,0,0,0,63,32,20

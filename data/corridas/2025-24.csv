@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,58,29,2
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,PIA,Oscar Piastri,McLaren,3,2,0,0,0,58,29,1
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,NOR,Lando Norris,McLaren,2,3,0,0,0,58,29,3
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,LEC,Charles Leclerc,Ferrari,5,4,0,0,0,58,29,4
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,RUS,George Russell,Mercedes,4,5,0,0,0,58,29,5
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,ALO,Fernando Alonso,Aston Martin,6,6,0,0,0,58,29,9
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,OCO,Esteban Ocon,Haas F1 Team,8,7,0,0,0,58,29,13
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,HAM,Lewis Hamilton,Ferrari,16,8,0,0,0,58,29,8
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,HUL,Nico Hulkenberg,Kick Sauber,18,9,0,0,0,58,29,12
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,STR,Lance Stroll,Aston Martin,15,10,0,0,0,58,29,7
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,BOR,Gabriel Bortoleto,Kick Sauber,7,11,0,0,0,58,29,11
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,BEA,Oliver Bearman,Haas F1 Team,11,12,0,0,0,58,29,14
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,SAI,Carlos Sainz,Williams,12,13,0,0,0,58,29,17
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,TSU,Yuki Tsunoda,Red Bull Racing,10,14,0,0,0,58,29,6
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,ANT,Kimi Antonelli,Mercedes,14,15,0,0,0,58,29,10
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,ALB,Alexander Albon,Williams,17,16,0,0,0,58,29,15
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,HAD,Isack Hadjar,Racing Bulls,9,17,0,0,0,58,29,16
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,LAW,Liam Lawson,Racing Bulls,13,18,0,0,0,58,29,20
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,GAS,Pierre Gasly,Alpine,19,19,0,0,0,58,29,18
+2025-24,2025,24,Abu Dhabi Grand Prix,Yas Island,2025-12-07,COL,Franco Colapinto,Alpine,20,20,0,0,0,58,29,19

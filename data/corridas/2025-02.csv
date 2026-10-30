@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,PIA,Oscar Piastri,McLaren,1,1,1,0,0,56,28,1
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,NOR,Lando Norris,McLaren,3,2,0,0,0,56,28,2
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,RUS,George Russell,Mercedes,2,3,0,0,0,56,28,3
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,VER,Max Verstappen,Red Bull Racing,4,4,0,0,0,56,28,6
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,OCO,Esteban Ocon,Haas F1 Team,11,5,0,0,0,56,28,9
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,ANT,Kimi Antonelli,Mercedes,8,6,0,0,0,56,28,10
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,ALB,Alexander Albon,Williams,10,7,0,0,0,56,28,12
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,BEA,Oliver Bearman,Haas F1 Team,17,8,0,0,0,56,28,17
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,STR,Lance Stroll,Aston Martin,14,9,0,0,0,56,28,7
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,SAI,Carlos Sainz,Williams,15,10,0,0,0,56,28,14
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,HAD,Isack Hadjar,Racing Bulls,7,11,0,0,0,56,28,11
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,LAW,Liam Lawson,Red Bull Racing,20,12,0,0,0,56,28,16
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,DOO,Jack Doohan,Alpine,18,13,0,0,0,56,28,15
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,BOR,Gabriel Bortoleto,Kick Sauber,19,14,0,0,0,56,28,19
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,HUL,Nico Hulkenberg,Kick Sauber,12,15,0,0,0,56,28,18
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,TSU,Yuki Tsunoda,Racing Bulls,9,16,0,0,0,56,28,8
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,ALO,Fernando Alonso,Aston Martin,13,17,0,0,0,56,28,
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,LEC,Charles Leclerc,Ferrari,6,18,0,0,0,56,28,4
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,HAM,Lewis Hamilton,Ferrari,5,19,0,0,0,56,28,5
+2025-02,2025,2,Chinese Grand Prix,Shanghai,2025-03-23,GAS,Pierre Gasly,Alpine,16,20,0,0,0,56,28,13

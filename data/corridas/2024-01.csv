@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,57,29,1
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,PER,Sergio Perez,Red Bull Racing,5,2,0,0,0,57,29,2
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,SAI,Carlos Sainz,Ferrari,4,3,0,0,0,57,29,3
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,LEC,Charles Leclerc,Ferrari,2,4,0,0,0,57,29,5
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,RUS,George Russell,Mercedes,3,5,0,0,0,57,29,4
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,NOR,Lando Norris,McLaren,7,6,0,0,0,57,29,6
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,HAM,Lewis Hamilton,Mercedes,9,7,0,0,0,57,29,8
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,PIA,Oscar Piastri,McLaren,8,8,0,0,0,57,29,7
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,ALO,Fernando Alonso,Aston Martin,6,9,0,0,0,57,29,9
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,STR,Lance Stroll,Aston Martin,12,10,0,0,0,57,29,18
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,ZHO,Guanyu Zhou,Kick Sauber,17,11,0,0,0,57,29,17
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,MAG,Kevin Magnussen,Haas F1 Team,15,12,0,0,0,57,29,11
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,RIC,Daniel Ricciardo,RB,14,13,0,0,0,57,29,13
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,TSU,Yuki Tsunoda,RB,11,14,0,0,0,57,29,10
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,ALB,Alexander Albon,Williams,13,15,0,0,0,57,29,12
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,HUL,Nico Hulkenberg,Haas F1 Team,10,16,0,0,0,57,29,19
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,OCO,Esteban Ocon,Alpine,19,17,0,0,0,57,29,14
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,GAS,Pierre Gasly,Alpine,20,18,0,0,0,57,29,16
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,BOT,Valtteri Bottas,Kick Sauber,16,19,0,0,0,57,29,15
+2024-01,2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,SAR,Logan Sargeant,Williams,18,20,0,0,0,57,29,20

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,BOT,Valtteri Bottas,Mercedes,1,1,1,0,0,68,34,2
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,LEC,Charles Leclerc,Ferrari,7,2,0,0,0,68,34,6
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,NOR,Lando Norris,McLaren,3,3,0,0,0,68,34,5
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,HAM,Lewis Hamilton,Mercedes,5,4,0,0,0,68,34,1
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,SAI,Carlos Sainz,McLaren,8,5,0,0,0,68,34,7
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,PER,Sergio Perez,Racing Point,6,6,0,0,0,68,34,4
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,GAS,Pierre Gasly,AlphaTauri,12,7,0,0,0,68,34,8
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,OCO,Esteban Ocon,Renault,14,8,0,0,0,68,34,9
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,GIO,Antonio Giovinazzi,Alfa Romeo Racing,18,9,0,0,0,68,34,10
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,VET,Sebastian Vettel,Ferrari,11,10,0,0,0,68,34,12
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,LAT,Nicholas Latifi,Williams,20,11,0,0,0,68,34,14
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,KVY,Daniil Kvyat,AlphaTauri,13,12,0,0,0,68,34,11
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,ALB,Alexander Albon,Red Bull Racing,4,13,0,0,0,68,34,3
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,RAI,Kimi Räikkönen,Alfa Romeo Racing,19,14,0,0,0,68,34,16
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,RUS,George Russell,Williams,17,15,0,0,0,68,34,15
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,GRO,Romain Grosjean,Haas F1 Team,15,16,0,0,0,68,34,13
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,MAG,Kevin Magnussen,Haas F1 Team,16,17,0,0,0,68,34,
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,STR,Lance Stroll,Racing Point,9,18,0,0,0,68,34,
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,RIC,Daniel Ricciardo,Renault,10,19,0,0,0,68,34,
+2020-01,2020,1,Austrian Grand Prix,Spielberg,2020-07-05,VER,Max Verstappen,Red Bull Racing,2,20,0,0,0,68,34,

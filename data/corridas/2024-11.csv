@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,RUS,George Russell,Mercedes,3,1,1,0,0,71,36,3
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,PIA,Oscar Piastri,McLaren,7,2,0,0,0,71,36,6
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,SAI,Carlos Sainz,Ferrari,4,3,0,0,0,71,36,4
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,HAM,Lewis Hamilton,Mercedes,5,4,0,0,0,71,36,5
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,VER,Max Verstappen,Red Bull Racing,1,5,0,0,0,71,36,1
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,HUL,Nico Hulkenberg,Haas F1 Team,9,6,0,0,0,71,36,8
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,PER,Sergio Perez,Red Bull Racing,8,7,0,0,0,71,36,7
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,MAG,Kevin Magnussen,Haas F1 Team,12,8,0,0,0,71,36,9
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,RIC,Daniel Ricciardo,RB,11,9,0,0,0,71,36,10
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,GAS,Pierre Gasly,Alpine,13,10,0,0,0,71,36,12
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,LEC,Charles Leclerc,Ferrari,6,11,0,0,0,71,36,17
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,OCO,Esteban Ocon,Alpine,10,12,0,0,0,71,36,11
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,STR,Lance Stroll,Aston Martin,17,13,0,0,0,71,36,15
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,TSU,Yuki Tsunoda,RB,14,14,0,0,0,71,36,14
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,ALB,Alexander Albon,Williams,16,15,0,0,0,71,36,13
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,BOT,Valtteri Bottas,Kick Sauber,18,16,0,0,0,71,36,16
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,ZHO,Guanyu Zhou,Kick Sauber,20,17,0,0,0,71,36,18
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,ALO,Fernando Alonso,Aston Martin,15,18,0,0,0,71,36,19
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,SAR,Logan Sargeant,Williams,19,19,0,0,0,71,36,20
+2024-11,2024,11,Austrian Grand Prix,Spielberg,2024-06-30,NOR,Lando Norris,McLaren,2,20,0,0,0,71,36,2

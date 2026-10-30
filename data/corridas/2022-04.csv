@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,VER,Max Verstappen,Red Bull Racing,1,1,1,1,18,63,32,1.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,PER,Sergio Perez,Red Bull Racing,3,2,0,1,18,63,32,2.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,NOR,Lando Norris,McLaren,5,3,0,1,18,63,32,4.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,RUS,George Russell,Mercedes,11,4,0,1,18,63,32,5.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,BOT,Valtteri Bottas,Alfa Romeo,7,5,0,1,18,63,32,6.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,LEC,Charles Leclerc,Ferrari,2,6,0,1,18,63,32,3.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,TSU,Yuki Tsunoda,AlphaTauri,12,7,0,1,18,63,32,9.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,VET,Sebastian Vettel,Aston Martin,13,8,0,1,18,63,32,7.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,MAG,Kevin Magnussen,Haas F1 Team,8,9,0,1,18,63,32,8.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,STR,Lance Stroll,Aston Martin,15,10,0,1,18,63,32,10.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,OCO,Esteban Ocon,Alpine,16,11,0,1,18,63,32,11.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,ALB,Alexander Albon,Williams,18,12,0,1,18,63,32,12.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,GAS,Pierre Gasly,AlphaTauri,17,13,0,1,18,63,32,13.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,HAM,Lewis Hamilton,Mercedes,14,14,0,1,18,63,32,14.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,ZHO,Guanyu Zhou,Alfa Romeo,20,15,0,1,18,63,32,16.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,LAT,Nicholas Latifi,Williams,19,16,0,1,18,63,32,15.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,MSC,Mick Schumacher,Haas F1 Team,10,17,0,1,18,63,32,17.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,RIC,Daniel Ricciardo,McLaren,6,18,0,1,18,63,32,18.0
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,ALO,Fernando Alonso,Alpine,9,19,0,1,18,63,32,
+2022-04,2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,SAI,Carlos Sainz,Ferrari,4,20,0,1,18,63,32,

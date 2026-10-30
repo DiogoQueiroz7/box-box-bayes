@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,HAM,Lewis Hamilton,Mercedes,2,1,1,0,0,60,30,1
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,VER,Max Verstappen,Red Bull Racing,3,2,0,0,0,60,30,2
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,RIC,Daniel Ricciardo,Renault,6,3,0,0,0,60,30,3
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,PER,Sergio Perez,Racing Point,9,4,0,0,0,60,30,5
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,SAI,Carlos Sainz,McLaren,10,5,0,0,0,60,30,7
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,GAS,Pierre Gasly,AlphaTauri,12,6,0,0,0,60,30,8
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,LEC,Charles Leclerc,Ferrari,4,7,0,0,0,60,30,4
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,HUL,Nico Hulkenberg,Racing Point,20,8,0,0,0,60,30,14
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,GRO,Romain Grosjean,Haas F1 Team,16,9,0,0,0,60,30,15
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,GIO,Antonio Giovinazzi,Alfa Romeo Racing,14,10,0,0,0,60,30,9
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,VET,Sebastian Vettel,Ferrari,11,11,0,0,0,60,30,10
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,RAI,Kimi Räikkönen,Alfa Romeo Racing,19,12,0,0,0,60,30,11
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,MAG,Kevin Magnussen,Haas F1 Team,15,13,0,0,0,60,30,12
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,LAT,Nicholas Latifi,Williams,18,14,0,0,0,60,30,13
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,KVY,Daniil Kvyat,AlphaTauri,13,15,0,0,0,60,30,16
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,NOR,Lando Norris,McLaren,8,16,0,0,0,60,30,6
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,ALB,Alexander Albon,Red Bull Racing,5,17,0,0,0,60,30,
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,OCO,Esteban Ocon,Renault,7,18,0,0,0,60,30,
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,BOT,Valtteri Bottas,Mercedes,1,19,0,0,0,60,30,
+2020-11,2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,RUS,George Russell,Williams,17,20,0,0,0,60,30,

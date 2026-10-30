@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,HAM,Lewis Hamilton,Mercedes,2,1,1,0,0,53,27,2
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,BOT,Valtteri Bottas,Mercedes,1,2,0,0,0,53,27,3
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,VET,Sebastian Vettel,Ferrari,3,3,0,0,0,53,27,4
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,RAI,Kimi Räikkönen,Ferrari,4,4,0,0,0,53,27,5
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,VER,Max Verstappen,Red Bull Racing,19,5,0,0,0,53,27,1
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,RIC,Daniel Ricciardo,Red Bull Racing,18,6,0,0,0,53,27,6
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,LEC,Charles Leclerc,Sauber,7,7,0,0,0,53,27,8
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,MAG,Kevin Magnussen,Haas F1 Team,5,8,0,0,0,53,27,9
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,OCO,Esteban Ocon,Racing Point,6,9,0,0,0,53,27,11
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,PER,Sergio Perez,Racing Point,8,10,0,0,0,53,27,10
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,GRO,Romain Grosjean,Haas F1 Team,9,11,0,0,0,53,27,12
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,HUL,Nico Hulkenberg,Renault,12,12,0,0,0,53,27,7
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,ERI,Marcus Ericsson,Sauber,10,13,0,0,0,53,27,13
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,ALO,Fernando Alonso,McLaren,16,14,0,0,0,53,27,15
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,STR,Lance Stroll,Williams,14,15,0,0,0,53,27,16
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,VAN,Stoffel Vandoorne,McLaren,15,16,0,0,0,53,27,17
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,SAI,Carlos Sainz,Renault,11,17,0,0,0,53,27,14
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,SIR,Sergey Sirotkin,Williams,13,18,0,0,0,53,27,18
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,GAS,Pierre Gasly,Toro Rosso,17,19,0,0,0,53,27,
+2018-16,2018,16,Russian Grand Prix,Sochi,2018-09-30,HAR,Brendon Hartley,Toro Rosso,20,20,0,0,0,53,27,

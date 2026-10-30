@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,57,29,1
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,VER,Max Verstappen,Red Bull Racing,7,2,0,0,0,57,29,2
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,ALO,Fernando Alonso,Alpine,3,3,0,0,0,57,29,5
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,PER,Sergio Perez,Red Bull Racing,11,4,0,0,0,57,29,4
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,OCO,Esteban Ocon,Alpine,9,5,0,0,0,57,29,8
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,STR,Lance Stroll,Aston Martin,12,6,0,0,0,57,29,9
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,SAI,Carlos Sainz,Ferrari,5,7,0,0,0,57,29,10
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,LEC,Charles Leclerc,Ferrari,13,8,0,0,0,57,29,13
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,NOR,Lando Norris,McLaren,4,9,0,0,0,57,29,7
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,VET,Sebastian Vettel,Aston Martin,10,10,0,0,0,57,29,14
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,GAS,Pierre Gasly,AlphaTauri,2,11,0,0,0,57,29,6
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,RIC,Daniel Ricciardo,McLaren,14,12,0,0,0,57,29,16
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,TSU,Yuki Tsunoda,AlphaTauri,8,13,0,0,0,57,29,11
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,RAI,Kimi Räikkönen,Alfa Romeo Racing,16,14,0,0,0,57,29,12
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,GIO,Antonio Giovinazzi,Alfa Romeo Racing,18,15,0,0,0,57,29,15
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,MSC,Mick Schumacher,Haas F1 Team,19,16,0,0,0,57,29,20
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,RUS,George Russell,Williams,15,17,0,0,0,57,29,17
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,MAZ,Nikita Mazepin,Haas F1 Team,20,18,0,0,0,57,29,19
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,LAT,Nicholas Latifi,Williams,17,19,0,0,0,57,29,18
+2021-20,2021,20,Qatar Grand Prix,Lusail,2021-11-21,BOT,Valtteri Bottas,Mercedes,6,20,0,0,0,57,29,3

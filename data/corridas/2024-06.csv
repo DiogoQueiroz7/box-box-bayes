@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,NOR,Lando Norris,McLaren,5,1,1,0,0,57,29,1
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,VER,Max Verstappen,Red Bull Racing,1,2,0,0,0,57,29,2
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,LEC,Charles Leclerc,Ferrari,2,3,0,0,0,57,29,3
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,PER,Sergio Perez,Red Bull Racing,4,4,0,0,0,57,29,6
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,SAI,Carlos Sainz,Ferrari,3,5,0,0,0,57,29,5
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,HAM,Lewis Hamilton,Mercedes,8,6,0,0,0,57,29,8
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,TSU,Yuki Tsunoda,RB,10,7,0,0,0,57,29,7
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,RUS,George Russell,Mercedes,7,8,0,0,0,57,29,9
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,ALO,Fernando Alonso,Aston Martin,15,9,0,0,0,57,29,11
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,OCO,Esteban Ocon,Alpine,13,10,0,0,0,57,29,10
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,HUL,Nico Hulkenberg,Haas F1 Team,9,11,0,0,0,57,29,16
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,GAS,Pierre Gasly,Alpine,12,12,0,0,0,57,29,12
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,PIA,Oscar Piastri,McLaren,6,13,0,0,0,57,29,4
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,ZHO,Guanyu Zhou,Kick Sauber,19,14,0,0,0,57,29,14
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,RIC,Daniel Ricciardo,RB,20,15,0,0,0,57,29,15
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,BOT,Valtteri Bottas,Kick Sauber,16,16,0,0,0,57,29,18
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,STR,Lance Stroll,Aston Martin,11,17,0,0,0,57,29,17
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,ALB,Alexander Albon,Williams,14,18,0,0,0,57,29,13
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,MAG,Kevin Magnussen,Haas F1 Team,18,19,0,0,0,57,29,19
+2024-06,2024,6,Miami Grand Prix,Miami,2024-05-05,SAR,Logan Sargeant,Williams,17,20,0,0,0,57,29,

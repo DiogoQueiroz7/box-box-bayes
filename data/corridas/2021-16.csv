@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,BOT,Valtteri Bottas,Mercedes,1,1,1,1,58,58,29,1
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,VER,Max Verstappen,Red Bull Racing,2,2,0,1,58,58,29,2
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,PER,Sergio Perez,Red Bull Racing,6,3,0,1,58,58,29,4
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,LEC,Charles Leclerc,Ferrari,3,4,0,1,58,58,29,3
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,HAM,Lewis Hamilton,Mercedes,11,5,0,1,58,58,29,5
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,GAS,Pierre Gasly,AlphaTauri,4,6,0,1,58,58,29,6
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,NOR,Lando Norris,McLaren,7,7,0,1,58,58,29,7
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,SAI,Carlos Sainz,Ferrari,19,8,0,1,58,58,29,9
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,STR,Lance Stroll,Aston Martin,8,9,0,1,58,58,29,8
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,OCO,Esteban Ocon,Alpine,12,10,0,1,58,58,29,11
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,GIO,Antonio Giovinazzi,Alfa Romeo Racing,16,11,0,1,58,58,29,12
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,RAI,Kimi Räikkönen,Alfa Romeo Racing,17,12,0,1,58,58,29,14
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,RIC,Daniel Ricciardo,McLaren,20,13,0,1,58,58,29,18
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,TSU,Yuki Tsunoda,AlphaTauri,9,14,0,1,58,58,29,13
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,RUS,George Russell,Williams,13,15,0,1,58,58,29,15
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,ALO,Fernando Alonso,Alpine,5,16,0,1,58,58,29,16
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,LAT,Nicholas Latifi,Williams,15,17,0,1,58,58,29,17
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,VET,Sebastian Vettel,Aston Martin,10,18,0,1,58,58,29,10
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,MSC,Mick Schumacher,Haas F1 Team,14,19,0,1,58,58,29,20
+2021-16,2021,16,Turkish Grand Prix,Istanbul,2021-10-10,MAZ,Nikita Mazepin,Haas F1 Team,18,20,0,1,58,58,29,19

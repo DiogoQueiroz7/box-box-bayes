@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,HAM,Lewis Hamilton,Mercedes,1,1,1,0,3,70,35,1
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,VER,Max Verstappen,Red Bull Racing,7,2,0,0,3,70,35,2
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,BOT,Valtteri Bottas,Mercedes,2,3,0,0,3,70,35,4
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,STR,Lance Stroll,Racing Point,3,4,0,0,3,70,35,3
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,ALB,Alexander Albon,Red Bull Racing,13,5,0,0,3,70,35,10
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,VET,Sebastian Vettel,Ferrari,5,6,0,0,3,70,35,9
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,PER,Sergio Perez,Racing Point,4,7,0,0,3,70,35,7
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,RIC,Daniel Ricciardo,Renault,11,8,0,0,3,70,35,6
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,SAI,Carlos Sainz,McLaren,9,9,0,0,3,70,35,8
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,MAG,Kevin Magnussen,Haas F1 Team,20,10,0,0,3,70,35,5
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,LEC,Charles Leclerc,Ferrari,6,11,0,0,3,70,35,11
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,KVY,Daniil Kvyat,AlphaTauri,17,12,0,0,3,70,35,13
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,NOR,Lando Norris,McLaren,8,13,0,0,3,70,35,12
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,OCO,Esteban Ocon,Renault,14,14,0,0,3,70,35,15
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,RAI,Kimi Räikkönen,Alfa Romeo Racing,20,15,0,0,3,70,35,17
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,GRO,Romain Grosjean,Haas F1 Team,20,16,0,0,3,70,35,14
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,GIO,Antonio Giovinazzi,Alfa Romeo Racing,19,17,0,0,3,70,35,18
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,RUS,George Russell,Williams,12,18,0,0,3,70,35,16
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,LAT,Nicholas Latifi,Williams,15,19,0,0,3,70,35,19
+2020-03,2020,3,Hungarian Grand Prix,Budapest,2020-07-19,GAS,Pierre Gasly,AlphaTauri,10,20,0,0,3,70,35,

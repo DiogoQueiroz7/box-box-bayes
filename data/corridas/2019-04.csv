@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,BOT,Valtteri Bottas,Mercedes,1,1,1,0,0,51,26,2
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,HAM,Lewis Hamilton,Mercedes,2,2,0,0,0,51,26,3
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,VET,Sebastian Vettel,Ferrari,3,3,0,0,0,51,26,4
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,VER,Max Verstappen,Red Bull Racing,4,4,0,0,0,51,26,5
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,LEC,Charles Leclerc,Ferrari,8,5,0,0,0,51,26,1
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,PER,Sergio Perez,Racing Point,5,6,0,0,0,51,26,7
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,SAI,Carlos Sainz,McLaren,9,7,0,0,0,51,26,9
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,NOR,Lando Norris,McLaren,7,8,0,0,0,51,26,8
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,STR,Lance Stroll,Racing Point,13,9,0,0,0,51,26,12
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,RAI,Kimi Räikkönen,Alfa Romeo Racing,20,10,0,0,0,51,26,14
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,ALB,Alexander Albon,Toro Rosso,11,11,0,0,0,51,26,17
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,GIO,Antonio Giovinazzi,Alfa Romeo Racing,17,12,0,0,0,51,26,15
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,MAG,Kevin Magnussen,Haas F1 Team,12,13,0,0,0,51,26,13
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,HUL,Nico Hulkenberg,Renault,15,14,0,0,0,51,26,16
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,RUS,George Russell,Williams,16,15,0,0,0,51,26,19
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,KUB,Robert Kubica,Williams,20,16,0,0,0,51,26,20
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,GAS,Pierre Gasly,Red Bull Racing,20,17,0,0,0,51,26,6
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,GRO,Romain Grosjean,Haas F1 Team,14,18,0,0,0,51,26,18
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,KVY,Daniil Kvyat,Toro Rosso,6,19,0,0,0,51,26,10
+2019-04,2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,RIC,Daniel Ricciardo,Renault,10,20,0,0,0,51,26,11

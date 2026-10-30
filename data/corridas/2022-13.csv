@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,VER,Max Verstappen,Red Bull Racing,10,1,1,0,0,70,35,4
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,HAM,Lewis Hamilton,Mercedes,7,2,0,0,0,70,35,5
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,RUS,George Russell,Mercedes,1,3,0,0,0,70,35,2
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,SAI,Carlos Sainz,Ferrari,2,4,0,0,0,70,35,3
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,PER,Sergio Perez,Red Bull Racing,11,5,0,0,0,70,35,6
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,LEC,Charles Leclerc,Ferrari,3,6,0,0,0,70,35,1
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,NOR,Lando Norris,McLaren,4,7,0,0,0,70,35,7
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,ALO,Fernando Alonso,Alpine,6,8,0,0,0,70,35,12
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,OCO,Esteban Ocon,Alpine,5,9,0,0,0,70,35,10
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,VET,Sebastian Vettel,Aston Martin,18,10,0,0,0,70,35,11
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,STR,Lance Stroll,Aston Martin,14,11,0,0,0,70,35,9
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,GAS,Pierre Gasly,AlphaTauri,20,12,0,0,0,70,35,13
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,ZHO,Guanyu Zhou,Alfa Romeo,12,13,0,0,0,70,35,16
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,MSC,Mick Schumacher,Haas F1 Team,15,14,0,0,0,70,35,15
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,RIC,Daniel Ricciardo,McLaren,9,15,0,0,0,70,35,8
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,MAG,Kevin Magnussen,Haas F1 Team,13,16,0,0,0,70,35,18
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,ALB,Alexander Albon,Williams,17,17,0,0,0,70,35,19
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,LAT,Nicholas Latifi,Williams,19,18,0,0,0,70,35,17
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,TSU,Yuki Tsunoda,AlphaTauri,16,19,0,0,0,70,35,20
+2022-13,2022,13,Hungarian Grand Prix,Budapest,2022-07-31,BOT,Valtteri Bottas,Alfa Romeo,8,20,0,0,0,70,35,14

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,56,28,1.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,HAM,Lewis Hamilton,Mercedes,2,2,0,0,0,56,28,2.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,PER,Sergio Perez,Red Bull Racing,3,3,0,0,0,56,28,3.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,LEC,Charles Leclerc,Ferrari,4,4,0,0,0,56,28,4.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,RIC,Daniel Ricciardo,McLaren,6,5,0,0,0,56,28,5.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,BOT,Valtteri Bottas,Mercedes,9,6,0,0,0,56,28,8.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,SAI,Carlos Sainz,Ferrari,5,7,0,0,0,56,28,6.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,NOR,Lando Norris,McLaren,7,8,0,0,0,56,28,7.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,TSU,Yuki Tsunoda,AlphaTauri,10,9,0,0,0,56,28,9.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,VET,Sebastian Vettel,Aston Martin,18,10,0,0,0,56,28,12.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,GIO,Antonio Giovinazzi,Alfa Romeo Racing,12,11,0,0,0,56,28,15.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,STR,Lance Stroll,Aston Martin,13,12,0,0,0,56,28,14.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,RAI,Kimi Räikkönen,Alfa Romeo Racing,15,13,0,0,0,56,28,10.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,RUS,George Russell,Williams,20,14,0,0,0,56,28,13.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,LAT,Nicholas Latifi,Williams,14,15,0,0,0,56,28,17.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,MSC,Mick Schumacher,Haas F1 Team,16,16,0,0,0,56,28,16.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,MAZ,Nikita Mazepin,Haas F1 Team,17,17,0,0,0,56,28,19.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,ALO,Fernando Alonso,Alpine,19,18,0,0,0,56,28,11.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,OCO,Esteban Ocon,Alpine,11,19,0,0,0,56,28,18.0
+2021-17,2021,17,United States Grand Prix,Austin,2021-10-24,GAS,Pierre Gasly,AlphaTauri,8,20,0,0,0,56,28,

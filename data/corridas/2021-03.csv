@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,HAM,Lewis Hamilton,Mercedes,2,1,1,0,0,66,33,1.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,VER,Max Verstappen,Red Bull Racing,3,2,0,0,0,66,33,3.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,BOT,Valtteri Bottas,Mercedes,1,3,0,0,0,66,33,2.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,PER,Sergio Perez,Red Bull Racing,4,4,0,0,0,66,33,4.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,NOR,Lando Norris,McLaren,7,5,0,0,0,66,33,8.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,LEC,Charles Leclerc,Ferrari,8,6,0,0,0,66,33,10.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,OCO,Esteban Ocon,Alpine,6,7,0,0,0,66,33,12.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,ALO,Fernando Alonso,Alpine,13,8,0,0,0,66,33,6.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,RIC,Daniel Ricciardo,McLaren,16,9,0,0,0,66,33,5.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,GAS,Pierre Gasly,AlphaTauri,9,10,0,0,0,66,33,11.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,SAI,Carlos Sainz,Ferrari,5,11,0,0,0,66,33,9.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,GIO,Antonio Giovinazzi,Alfa Romeo Racing,12,12,0,0,0,66,33,14.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,VET,Sebastian Vettel,Aston Martin,10,13,0,0,0,66,33,13.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,STR,Lance Stroll,Aston Martin,17,14,0,0,0,66,33,7.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,TSU,Yuki Tsunoda,AlphaTauri,14,15,0,0,0,66,33,15.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,RUS,George Russell,Williams,11,16,0,0,0,66,33,17.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,MSC,Mick Schumacher,Haas F1 Team,19,17,0,0,0,66,33,18.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,LAT,Nicholas Latifi,Williams,18,18,0,0,0,66,33,16.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,MAZ,Nikita Mazepin,Haas F1 Team,20,19,0,0,0,66,33,19.0
+2021-03,2021,3,Portuguese Grand Prix,Portimão,2021-05-02,RAI,Kimi Räikkönen,Alfa Romeo Racing,15,20,0,0,0,66,33,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,HAM,Lewis Hamilton,Mercedes,2,1,1,0,0,70,35,2
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,VET,Sebastian Vettel,Ferrari,1,2,0,0,0,70,35,1
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,LEC,Charles Leclerc,Ferrari,3,3,0,0,0,70,35,3
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,BOT,Valtteri Bottas,Mercedes,6,4,0,0,0,70,35,6
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,VER,Max Verstappen,Red Bull Racing,9,5,0,0,0,70,35,4
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,RIC,Daniel Ricciardo,Renault,4,6,0,0,0,70,35,5
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,HUL,Nico Hulkenberg,Renault,7,7,0,0,0,70,35,7
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,GAS,Pierre Gasly,Red Bull Racing,5,8,0,0,0,70,35,9
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,STR,Lance Stroll,Racing Point,17,9,0,0,0,70,35,8
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,KVY,Daniil Kvyat,Toro Rosso,10,10,0,0,0,70,35,11
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,SAI,Carlos Sainz,McLaren,11,11,0,0,0,70,35,10
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,PER,Sergio Perez,Racing Point,15,12,0,0,0,70,35,12
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,GIO,Antonio Giovinazzi,Alfa Romeo Racing,12,13,0,0,0,70,35,14
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,GRO,Romain Grosjean,Haas F1 Team,14,14,0,0,0,70,35,15
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,RAI,Kimi Räikkönen,Alfa Romeo Racing,16,15,0,0,0,70,35,13
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,RUS,George Russell,Williams,18,16,0,0,0,70,35,18
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,MAG,Kevin Magnussen,Haas F1 Team,20,17,0,0,0,70,35,16
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,KUB,Robert Kubica,Williams,19,18,0,0,0,70,35,19
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,ALB,Alexander Albon,Toro Rosso,13,19,0,0,0,70,35,17
+2019-07,2019,7,Canadian Grand Prix,Montréal,2019-06-09,NOR,Lando Norris,McLaren,8,20,0,0,0,70,35,

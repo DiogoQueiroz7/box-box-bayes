@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,PER,Sergio Perez,Red Bull Racing,3,1,1,1,21,64,32,1
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,SAI,Carlos Sainz,Ferrari,2,2,0,1,21,64,32,2
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,VER,Max Verstappen,Red Bull Racing,4,3,0,1,21,64,32,3
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,LEC,Charles Leclerc,Ferrari,1,4,0,1,21,64,32,4
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,RUS,George Russell,Mercedes,6,5,0,1,21,64,32,5
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,NOR,Lando Norris,McLaren,5,6,0,1,21,64,32,6
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,ALO,Fernando Alonso,Alpine,7,7,0,1,21,64,32,7
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,HAM,Lewis Hamilton,Mercedes,8,8,0,1,21,64,32,8
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,BOT,Valtteri Bottas,Alfa Romeo,12,9,0,1,21,64,32,10
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,VET,Sebastian Vettel,Aston Martin,9,10,0,1,21,64,32,11
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,GAS,Pierre Gasly,AlphaTauri,17,11,0,1,21,64,32,12
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,OCO,Esteban Ocon,Alpine,10,12,0,1,21,64,32,9
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,RIC,Daniel Ricciardo,McLaren,14,13,0,1,21,64,32,13
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,STR,Lance Stroll,Aston Martin,18,14,0,1,21,64,32,14
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,LAT,Nicholas Latifi,Williams,19,15,0,1,21,64,32,17
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,ZHO,Guanyu Zhou,Alfa Romeo,20,16,0,1,21,64,32,16
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,TSU,Yuki Tsunoda,AlphaTauri,11,17,0,1,21,64,32,15
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,ALB,Alexander Albon,Williams,16,18,0,1,21,64,32,18
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,MSC,Mick Schumacher,Haas F1 Team,15,19,0,1,21,64,32,
+2022-07,2022,7,Monaco Grand Prix,Monaco,2022-05-29,MAG,Kevin Magnussen,Haas F1 Team,13,20,0,1,21,64,32,

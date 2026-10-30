@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,BOT,Valtteri Bottas,Mercedes,3,1,1,0,0,53,27,1
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,VET,Sebastian Vettel,Ferrari,1,2,0,0,0,53,27,2
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,HAM,Lewis Hamilton,Mercedes,4,3,0,0,0,53,27,3
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,ALB,Alexander Albon,Red Bull Racing,6,4,0,0,0,53,27,4
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,SAI,Carlos Sainz,McLaren,7,5,0,0,0,53,27,6
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,LEC,Charles Leclerc,Ferrari,2,6,0,0,0,53,27,11
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,GAS,Pierre Gasly,Toro Rosso,9,7,0,0,0,53,27,7
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,PER,Sergio Perez,Racing Point,17,8,0,0,0,53,27,10
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,STR,Lance Stroll,Racing Point,12,9,0,0,0,53,27,8
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,KVY,Daniil Kvyat,Toro Rosso,14,10,0,0,0,53,27,12
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,NOR,Lando Norris,McLaren,8,11,0,0,0,53,27,17
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,RAI,Kimi Räikkönen,Alfa Romeo Racing,13,12,0,0,0,53,27,15
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,GRO,Romain Grosjean,Haas F1 Team,10,13,0,0,0,53,27,13
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,GIO,Antonio Giovinazzi,Alfa Romeo Racing,11,14,0,0,0,53,27,14
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,MAG,Kevin Magnussen,Haas F1 Team,19,15,0,0,0,53,27,16
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,RUS,George Russell,Williams,18,16,0,0,0,53,27,18
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,KUB,Robert Kubica,Williams,20,17,0,0,0,53,27,19
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,VER,Max Verstappen,Red Bull Racing,5,18,0,0,0,53,27,
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,RIC,Daniel Ricciardo,Renault,16,19,0,0,0,53,27,5
+2019-17,2019,17,Japanese Grand Prix,Suzuka,2019-10-13,HUL,Nico Hulkenberg,Renault,15,20,0,0,0,53,27,9

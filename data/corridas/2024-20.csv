@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,SAI,Carlos Sainz,Ferrari,1,1,1,0,0,71,36,1
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,NOR,Lando Norris,McLaren,3,2,0,0,0,71,36,3
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,LEC,Charles Leclerc,Ferrari,4,3,0,0,0,71,36,2
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,HAM,Lewis Hamilton,Mercedes,6,4,0,0,0,71,36,5
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,RUS,George Russell,Mercedes,5,5,0,0,0,71,36,4
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,VER,Max Verstappen,Red Bull Racing,2,6,0,0,0,71,36,8
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,MAG,Kevin Magnussen,Haas F1 Team,7,7,0,0,0,71,36,10
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,PIA,Oscar Piastri,McLaren,17,8,0,0,0,71,36,6
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,HUL,Nico Hulkenberg,Haas F1 Team,10,9,0,0,0,71,36,12
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,GAS,Pierre Gasly,Alpine,8,10,0,0,0,71,36,14
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,STR,Lance Stroll,Aston Martin,14,11,0,0,0,71,36,17
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,COL,Franco Colapinto,Williams,16,12,0,0,0,71,36,9
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,OCO,Esteban Ocon,Alpine,20,13,0,0,0,71,36,13
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,BOT,Valtteri Bottas,Kick Sauber,15,14,0,0,0,71,36,11
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,ZHO,Guanyu Zhou,Kick Sauber,19,15,0,0,0,71,36,15
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,LAW,Liam Lawson,RB,12,16,0,0,0,71,36,7
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,PER,Sergio Perez,Red Bull Racing,18,17,0,0,0,71,36,16
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,ALO,Fernando Alonso,Aston Martin,13,18,0,0,0,71,36,
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,ALB,Alexander Albon,Williams,9,19,0,0,0,71,36,
+2024-20,2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,TSU,Yuki Tsunoda,RB,11,20,0,0,0,71,36,

@@ -1,0 +1,20 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,58,29,2.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,HAM,Lewis Hamilton,Mercedes,2,2,0,0,0,58,29,1.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,SAI,Carlos Sainz,Ferrari,5,3,0,0,0,58,29,7.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,TSU,Yuki Tsunoda,AlphaTauri,8,4,0,0,0,58,29,10.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,GAS,Pierre Gasly,AlphaTauri,12,5,0,0,0,58,29,6.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,BOT,Valtteri Bottas,Mercedes,6,6,0,0,0,58,29,3.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,NOR,Lando Norris,McLaren,3,7,0,0,0,58,29,8.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,ALO,Fernando Alonso,Alpine,11,8,0,0,0,58,29,5.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,OCO,Esteban Ocon,Alpine,9,9,0,0,0,58,29,11.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,LEC,Charles Leclerc,Ferrari,7,10,0,0,0,58,29,9.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,VET,Sebastian Vettel,Aston Martin,15,11,0,0,0,58,29,14.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,RIC,Daniel Ricciardo,McLaren,10,12,0,0,0,58,29,12.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,STR,Lance Stroll,Aston Martin,13,13,0,0,0,58,29,15.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,MSC,Mick Schumacher,Haas F1 Team,19,14,0,0,0,58,29,16.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,PER,Sergio Perez,Red Bull Racing,4,15,0,0,0,58,29,4.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,LAT,Nicholas Latifi,Williams,16,16,0,0,0,58,29,17.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,GIO,Antonio Giovinazzi,Alfa Romeo Racing,14,17,0,0,0,58,29,13.0
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,RUS,George Russell,Williams,17,18,0,0,0,58,29,
+2021-22,2021,22,Abu Dhabi Grand Prix,Yas Island,2021-12-12,RAI,Kimi Räikkönen,Alfa Romeo Racing,18,19,0,0,0,58,29,

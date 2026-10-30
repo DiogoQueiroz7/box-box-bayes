@@ -1,0 +1,20 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,HAM,Lewis Hamilton,Mercedes,2,1,1,1,12,52,26,3
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,VER,Max Verstappen,Red Bull Racing,4,2,0,1,12,52,26,5
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,NOR,Lando Norris,McLaren,3,3,0,1,12,52,26,1
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,PIA,Oscar Piastri,McLaren,5,4,0,1,12,52,26,2
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,SAI,Carlos Sainz,Ferrari,7,5,0,1,12,52,26,6
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,HUL,Nico Hulkenberg,Haas F1 Team,6,6,0,1,12,52,26,7
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,STR,Lance Stroll,Aston Martin,8,7,0,1,12,52,26,8
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,ALO,Fernando Alonso,Aston Martin,10,8,0,1,12,52,26,9
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,ALB,Alexander Albon,Williams,9,9,0,1,12,52,26,11
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,TSU,Yuki Tsunoda,RB,13,10,0,1,12,52,26,10
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,SAR,Logan Sargeant,Williams,12,11,0,1,12,52,26,13
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,MAG,Kevin Magnussen,Haas F1 Team,17,12,0,1,12,52,26,12
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,RIC,Daniel Ricciardo,RB,15,13,0,1,12,52,26,14
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,LEC,Charles Leclerc,Ferrari,11,14,0,1,12,52,26,16
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,BOT,Valtteri Bottas,Kick Sauber,16,15,0,1,12,52,26,15
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,OCO,Esteban Ocon,Alpine,18,16,0,1,12,52,26,18
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,PER,Sergio Perez,Red Bull Racing,20,17,0,1,12,52,26,17
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,ZHO,Guanyu Zhou,Kick Sauber,14,18,0,1,12,52,26,19
+2024-12,2024,12,British Grand Prix,Silverstone,2024-07-07,RUS,George Russell,Mercedes,1,19,0,1,12,52,26,4

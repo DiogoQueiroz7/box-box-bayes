@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,50,25,1
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,PER,Sergio Perez,Red Bull Racing,3,2,0,0,0,50,25,2
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,LEC,Charles Leclerc,Ferrari,2,3,0,0,0,50,25,4
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,PIA,Oscar Piastri,McLaren,5,4,0,0,0,50,25,6
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,ALO,Fernando Alonso,Aston Martin,4,5,0,0,0,50,25,7
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,RUS,George Russell,Mercedes,7,6,0,0,0,50,25,8
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,BEA,Oliver Bearman,Ferrari,11,7,0,0,0,50,25,9
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,NOR,Lando Norris,McLaren,6,8,0,0,0,50,25,3
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,HAM,Lewis Hamilton,Mercedes,8,9,0,0,0,50,25,5
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,HUL,Nico Hulkenberg,Haas F1 Team,15,10,0,0,0,50,25,10
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,ALB,Alexander Albon,Williams,12,11,0,0,0,50,25,15
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,MAG,Kevin Magnussen,Haas F1 Team,13,12,0,0,0,50,25,12
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,OCO,Esteban Ocon,Alpine,17,13,0,0,0,50,25,14
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,SAR,Logan Sargeant,Williams,19,14,0,0,0,50,25,16
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,TSU,Yuki Tsunoda,RB,9,15,0,0,0,50,25,13
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,RIC,Daniel Ricciardo,RB,14,16,0,0,0,50,25,17
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,BOT,Valtteri Bottas,Kick Sauber,16,17,0,0,0,50,25,18
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,ZHO,Guanyu Zhou,Kick Sauber,20,18,0,0,0,50,25,11
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,STR,Lance Stroll,Aston Martin,10,19,0,0,0,50,25,
+2024-02,2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,GAS,Pierre Gasly,Alpine,18,20,0,0,0,50,25,

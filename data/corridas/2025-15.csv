@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,PIA,Oscar Piastri,McLaren,1,1,1,0,0,72,36,1
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,VER,Max Verstappen,Red Bull Racing,3,2,0,0,0,72,36,3
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,HAD,Isack Hadjar,Racing Bulls,4,3,0,0,0,72,36,4
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,RUS,George Russell,Mercedes,5,4,0,0,0,72,36,6
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,ALB,Alexander Albon,Williams,15,5,0,0,0,72,36,8
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,BEA,Oliver Bearman,Haas F1 Team,20,6,0,0,0,72,36,11
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,STR,Lance Stroll,Aston Martin,19,7,0,0,0,72,36,9
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,ALO,Fernando Alonso,Aston Martin,10,8,0,0,0,72,36,13
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,TSU,Yuki Tsunoda,Red Bull Racing,12,9,0,0,0,72,36,12
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,OCO,Esteban Ocon,Haas F1 Team,18,10,0,0,0,72,36,10
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,COL,Franco Colapinto,Alpine,16,11,0,0,0,72,36,15
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,LAW,Liam Lawson,Racing Bulls,8,12,0,0,0,72,36,19
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,SAI,Carlos Sainz,Williams,9,13,0,0,0,72,36,18
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,HUL,Nico Hulkenberg,Kick Sauber,17,14,0,0,0,72,36,17
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,BOR,Gabriel Bortoleto,Kick Sauber,13,15,0,0,0,72,36,16
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,ANT,Kimi Antonelli,Mercedes,11,16,0,0,0,72,36,7
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,GAS,Pierre Gasly,Alpine,14,17,0,0,0,72,36,14
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,NOR,Lando Norris,McLaren,2,18,0,0,0,72,36,2
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,LEC,Charles Leclerc,Ferrari,6,19,0,0,0,72,36,5
+2025-15,2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,HAM,Lewis Hamilton,Ferrari,7,20,0,0,0,72,36,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,NOR,Lando Norris,McLaren,1,1,1,1,46,57,29,1
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,VER,Max Verstappen,Red Bull Racing,3,2,0,1,46,57,29,3
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,RUS,George Russell,Mercedes,4,3,0,1,46,57,29,4
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,ANT,Andrea Kimi Antonelli,Mercedes,16,4,0,1,46,57,29,11
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,ALB,Alexander Albon,Williams,6,5,0,1,46,57,29,7
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,STR,Lance Stroll,Aston Martin,13,6,0,1,46,57,29,12
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,HUL,Nico Hulkenberg,Kick Sauber,17,7,0,1,46,57,29,13
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,LEC,Charles Leclerc,Ferrari,7,8,0,1,46,57,29,5
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,PIA,Oscar Piastri,McLaren,2,9,0,1,46,57,29,2
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,HAM,Lewis Hamilton,Ferrari,8,10,0,1,46,57,29,8
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,GAS,Pierre Gasly,Alpine,9,11,0,1,46,57,29,9
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,TSU,Yuki Tsunoda,Racing Bulls,5,12,0,1,46,57,29,6
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,OCO,Esteban Ocon,Haas F1 Team,19,13,0,1,46,57,29,16
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,BEA,Oliver Bearman,Haas F1 Team,20,14,0,1,46,57,29,17
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,LAW,Liam Lawson,Red Bull Racing,18,15,0,1,46,57,29,15
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,BOR,Gabriel Bortoleto,Kick Sauber,15,16,0,1,46,57,29,14
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,ALO,Fernando Alonso,Aston Martin,12,17,0,1,46,57,29,10
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,SAI,Carlos Sainz,Williams,10,18,0,1,46,57,29,
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,DOO,Jack Doohan,Alpine,14,19,0,1,46,57,29,
+2025-01,2025,1,Australian Grand Prix,Melbourne,2025-03-16,HAD,Isack Hadjar,Racing Bulls,11,20,0,1,46,57,29,

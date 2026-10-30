@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,PIA,Oscar Piastri,McLaren,2,1,1,0,0,50,25,3
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,VER,Max Verstappen,Red Bull Racing,1,2,0,0,0,50,25,4
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,LEC,Charles Leclerc,Ferrari,4,3,0,0,0,50,25,1
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,NOR,Lando Norris,McLaren,10,4,0,0,0,50,25,2
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,RUS,George Russell,Mercedes,3,5,0,0,0,50,25,5
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,ANT,Kimi Antonelli,Mercedes,5,6,0,0,0,50,25,7
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,HAM,Lewis Hamilton,Ferrari,7,7,0,0,0,50,25,8
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,SAI,Carlos Sainz,Williams,6,8,0,0,0,50,25,12
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,ALB,Alexander Albon,Williams,11,9,0,0,0,50,25,13
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,HAD,Isack Hadjar,Racing Bulls,14,10,0,0,0,50,25,6
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,ALO,Fernando Alonso,Aston Martin,13,11,0,0,0,50,25,17
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,LAW,Liam Lawson,Racing Bulls,12,12,0,0,0,50,25,15
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,BEA,Oliver Bearman,Haas F1 Team,15,13,0,0,0,50,25,18
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,OCO,Esteban Ocon,Haas F1 Team,19,14,0,0,0,50,25,11
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,HUL,Nico Hulkenberg,Kick Sauber,18,15,0,0,0,50,25,10
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,STR,Lance Stroll,Aston Martin,16,16,0,0,0,50,25,9
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,DOO,Jack Doohan,Alpine,17,17,0,0,0,50,25,14
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,BOR,Gabriel Bortoleto,Kick Sauber,20,18,0,0,0,50,25,16
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,TSU,Yuki Tsunoda,Red Bull Racing,8,19,0,0,0,50,25,
+2025-05,2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,GAS,Pierre Gasly,Alpine,9,20,0,0,0,50,25,

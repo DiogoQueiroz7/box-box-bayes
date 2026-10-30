@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,VER,Max Verstappen,Red Bull Racing,2,1,1,1,44,70,35,1
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,NOR,Lando Norris,McLaren,3,2,0,1,44,70,35,3
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,RUS,George Russell,Mercedes,1,3,0,1,44,70,35,2
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,HAM,Lewis Hamilton,Mercedes,7,4,0,1,44,70,35,5
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,PIA,Oscar Piastri,McLaren,4,5,0,1,44,70,35,4
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,ALO,Fernando Alonso,Aston Martin,6,6,0,1,44,70,35,6
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,STR,Lance Stroll,Aston Martin,9,7,0,1,44,70,35,8
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,RIC,Daniel Ricciardo,RB,5,8,0,1,44,70,35,11
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,GAS,Pierre Gasly,Alpine,15,9,0,1,44,70,35,14
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,OCO,Esteban Ocon,Alpine,18,10,0,1,44,70,35,10
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,HUL,Nico Hulkenberg,Haas F1 Team,17,11,0,1,44,70,35,18
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,MAG,Kevin Magnussen,Haas F1 Team,14,12,0,1,44,70,35,15
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,BOT,Valtteri Bottas,Kick Sauber,19,13,0,1,44,70,35,12
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,TSU,Yuki Tsunoda,RB,8,14,0,1,44,70,35,7
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,ZHO,Guanyu Zhou,Kick Sauber,20,15,0,1,44,70,35,17
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,SAI,Carlos Sainz,Ferrari,12,16,0,1,44,70,35,13
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,ALB,Alexander Albon,Williams,10,17,0,1,44,70,35,9
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,PER,Sergio Perez,Red Bull Racing,16,18,0,1,44,70,35,16
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,LEC,Charles Leclerc,Ferrari,11,19,0,1,44,70,35,19
+2024-09,2024,9,Canadian Grand Prix,Montréal,2024-06-09,SAR,Logan Sargeant,Williams,13,20,0,1,44,70,35,

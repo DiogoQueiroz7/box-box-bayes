@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,VER,Max Verstappen,Red Bull Racing,2,1,1,1,44,64,32,1
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,VET,Sebastian Vettel,Ferrari,20,2,0,1,44,64,32,8
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,KVY,Daniil Kvyat,Toro Rosso,14,3,0,1,44,64,32,11
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,STR,Lance Stroll,Racing Point,15,4,0,1,44,64,32,15
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,SAI,Carlos Sainz,McLaren,7,5,0,1,44,64,32,6
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,ALB,Alexander Albon,Toro Rosso,16,6,0,1,44,64,32,4
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,GRO,Romain Grosjean,Haas F1 Team,6,7,0,1,44,64,32,13
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,MAG,Kevin Magnussen,Haas F1 Team,12,8,0,1,44,64,32,12
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,HAM,Lewis Hamilton,Mercedes,1,9,0,1,44,64,32,5
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,KUB,Robert Kubica,Williams,18,10,0,1,44,64,32,16
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,RUS,George Russell,Williams,17,11,0,1,44,64,32,14
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,RAI,Kimi Räikkönen,Alfa Romeo Racing,5,12,0,1,44,64,32,7
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,GIO,Antonio Giovinazzi,Alfa Romeo Racing,11,13,0,1,44,64,32,10
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,GAS,Pierre Gasly,Red Bull Racing,4,14,0,1,44,64,32,9
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,BOT,Valtteri Bottas,Mercedes,3,15,0,1,44,64,32,3
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,HUL,Nico Hulkenberg,Renault,9,16,0,1,44,64,32,2
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,LEC,Charles Leclerc,Ferrari,10,17,0,1,44,64,32,
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,NOR,Lando Norris,McLaren,19,18,0,1,44,64,32,
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,RIC,Daniel Ricciardo,Renault,13,19,0,1,44,64,32,
+2019-11,2019,11,German Grand Prix,Hockenheim,2019-07-28,PER,Sergio Perez,Racing Point,8,20,0,1,44,64,32,

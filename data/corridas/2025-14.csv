@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,NOR,Lando Norris,McLaren,3,1,1,0,0,70,35,4
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,PIA,Oscar Piastri,McLaren,2,2,0,0,0,70,35,2
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,RUS,George Russell,Mercedes,4,3,0,0,0,70,35,3
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,LEC,Charles Leclerc,Ferrari,1,4,0,0,0,70,35,1
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,ALO,Fernando Alonso,Aston Martin,5,5,0,0,0,70,35,5
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,BOR,Gabriel Bortoleto,Kick Sauber,7,6,0,0,0,70,35,6
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,STR,Lance Stroll,Aston Martin,6,7,0,0,0,70,35,7
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,LAW,Liam Lawson,Racing Bulls,9,8,0,0,0,70,35,8
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,VER,Max Verstappen,Red Bull Racing,8,9,0,0,0,70,35,9
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,ANT,Kimi Antonelli,Mercedes,15,10,0,0,0,70,35,15
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,HAD,Isack Hadjar,Racing Bulls,10,11,0,0,0,70,35,19
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,HAM,Lewis Hamilton,Ferrari,12,12,0,0,0,70,35,10
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,HUL,Nico Hulkenberg,Kick Sauber,18,13,0,0,0,70,35,11
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,SAI,Carlos Sainz,Williams,13,14,0,0,0,70,35,12
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,ALB,Alexander Albon,Williams,19,15,0,0,0,70,35,13
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,OCO,Esteban Ocon,Haas F1 Team,17,16,0,0,0,70,35,14
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,TSU,Yuki Tsunoda,Red Bull Racing,20,17,0,0,0,70,35,16
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,COL,Franco Colapinto,Alpine,14,18,0,0,0,70,35,17
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,GAS,Pierre Gasly,Alpine,16,19,0,0,0,70,35,20
+2025-14,2025,14,Hungarian Grand Prix,Budapest,2025-08-03,BEA,Oliver Bearman,Haas F1 Team,11,20,0,0,0,70,35,18

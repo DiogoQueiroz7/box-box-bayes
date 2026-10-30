@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,61,31,1
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,VER,Max Verstappen,Red Bull Racing,2,2,0,0,0,61,31,2
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,VET,Sebastian Vettel,Ferrari,3,3,0,0,0,61,31,3
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,BOT,Valtteri Bottas,Mercedes,4,4,0,0,0,61,31,4
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,RAI,Kimi Räikkönen,Ferrari,5,5,0,0,0,61,31,5
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,RIC,Daniel Ricciardo,Red Bull Racing,6,6,0,0,0,61,31,6
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,ALO,Fernando Alonso,McLaren,11,7,0,0,0,61,31,7
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,SAI,Carlos Sainz,Renault,12,8,0,0,0,61,31,8
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,LEC,Charles Leclerc,Sauber,13,9,0,0,0,61,31,9
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,HUL,Nico Hulkenberg,Renault,10,10,0,0,0,61,31,15
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,ERI,Marcus Ericsson,Sauber,14,11,0,0,0,61,31,10
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,VAN,Stoffel Vandoorne,McLaren,18,12,0,0,0,61,31,11
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,GAS,Pierre Gasly,Toro Rosso,15,13,0,0,0,61,31,18
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,STR,Lance Stroll,Williams,20,14,0,0,0,61,31,12
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,GRO,Romain Grosjean,Haas F1 Team,8,15,0,0,0,61,31,16
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,PER,Sergio Perez,Racing Point,7,16,0,0,0,61,31,14
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,HAR,Brendon Hartley,Toro Rosso,17,17,0,0,0,61,31,17
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,MAG,Kevin Magnussen,Haas F1 Team,16,18,0,0,0,61,31,19
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,SIR,Sergey Sirotkin,Williams,19,19,0,0,0,61,31,13
+2018-15,2018,15,Singapore Grand Prix,Singapore,2018-09-16,OCO,Esteban Ocon,Racing Point,9,20,0,0,0,61,31,

@@ -1,0 +1,20 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,52,26,1
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,VER,Max Verstappen,Red Bull Racing,3,2,0,0,0,52,26,3
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,LEC,Charles Leclerc,Ferrari,4,3,0,0,0,52,26,4
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,RIC,Daniel Ricciardo,Renault,8,4,0,0,0,52,26,8
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,NOR,Lando Norris,McLaren,5,5,0,0,0,52,26,6
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,OCO,Esteban Ocon,Renault,9,6,0,0,0,52,26,10
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,GAS,Pierre Gasly,AlphaTauri,11,7,0,0,0,52,26,13
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,ALB,Alexander Albon,Red Bull Racing,12,8,0,0,0,52,26,14
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,STR,Lance Stroll,Racing Point,6,9,0,0,0,52,26,9
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,VET,Sebastian Vettel,Ferrari,10,10,0,0,0,52,26,11
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,BOT,Valtteri Bottas,Mercedes,2,11,0,0,0,52,26,2
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,RUS,George Russell,Williams,20,12,0,0,0,52,26,16
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,SAI,Carlos Sainz,McLaren,7,13,0,0,0,52,26,5
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,GIO,Antonio Giovinazzi,Alfa Romeo Racing,15,14,0,0,0,52,26,12
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,LAT,Nicholas Latifi,Williams,18,15,0,0,0,52,26,17
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,GRO,Romain Grosjean,Haas F1 Team,17,16,0,0,0,52,26,7
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,RAI,Kimi Räikkönen,Alfa Romeo Racing,16,17,0,0,0,52,26,15
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,KVY,Daniil Kvyat,AlphaTauri,19,18,0,0,0,52,26,
+2020-04,2020,4,British Grand Prix,Silverstone,2020-08-02,MAG,Kevin Magnussen,Haas F1 Team,14,19,0,0,0,52,26,

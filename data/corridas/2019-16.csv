@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,HAM,Lewis Hamilton,Mercedes,2,1,1,0,0,53,27,1
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,BOT,Valtteri Bottas,Mercedes,4,2,0,0,0,53,27,2
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,LEC,Charles Leclerc,Ferrari,1,3,0,0,0,53,27,3
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,VER,Max Verstappen,Red Bull Racing,9,4,0,0,0,53,27,4
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,ALB,Alexander Albon,Red Bull Racing,20,5,0,0,0,53,27,7
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,SAI,Carlos Sainz,McLaren,5,6,0,0,0,53,27,8
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,PER,Sergio Perez,Racing Point,11,7,0,0,0,53,27,11
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,NOR,Lando Norris,McLaren,7,8,0,0,0,53,27,10
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,MAG,Kevin Magnussen,Haas F1 Team,13,9,0,0,0,53,27,5
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,HUL,Nico Hulkenberg,Renault,6,10,0,0,0,53,27,12
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,STR,Lance Stroll,Racing Point,14,11,0,0,0,53,27,6
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,KVY,Daniil Kvyat,Toro Rosso,19,12,0,0,0,53,27,9
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,RAI,Kimi Räikkönen,Alfa Romeo Racing,15,13,0,0,0,53,27,15
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,GAS,Pierre Gasly,Toro Rosso,16,14,0,0,0,53,27,16
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,GIO,Antonio Giovinazzi,Alfa Romeo Racing,12,15,0,0,0,53,27,14
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,KUB,Robert Kubica,Williams,18,16,0,0,0,53,27,17
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,RUS,George Russell,Williams,17,17,0,0,0,53,27,13
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,VET,Sebastian Vettel,Ferrari,3,18,0,0,0,53,27,
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,RIC,Daniel Ricciardo,Renault,10,19,0,0,0,53,27,
+2019-16,2019,16,Russian Grand Prix,Sochi,2019-09-29,GRO,Romain Grosjean,Haas F1 Team,8,20,0,0,0,53,27,

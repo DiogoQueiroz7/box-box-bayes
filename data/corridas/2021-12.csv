@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,3,2,1
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,RUS,George Russell,Williams,2,2,0,0,0,3,2,2
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,HAM,Lewis Hamilton,Mercedes,3,3,0,0,0,3,2,3
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,RIC,Daniel Ricciardo,McLaren,4,4,0,0,0,3,2,4
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,VET,Sebastian Vettel,Aston Martin,5,5,0,0,0,3,2,5
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,GAS,Pierre Gasly,AlphaTauri,6,6,0,0,0,3,2,6
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,OCO,Esteban Ocon,Alpine,8,7,0,0,0,3,2,7
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,LEC,Charles Leclerc,Ferrari,9,8,0,0,0,3,2,8
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,LAT,Nicholas Latifi,Williams,10,9,0,0,0,3,2,9
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,SAI,Carlos Sainz,Ferrari,11,10,0,0,0,3,2,10
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,ALO,Fernando Alonso,Alpine,12,11,0,0,0,3,2,11
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,BOT,Valtteri Bottas,Mercedes,13,12,0,0,0,3,2,12
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,GIO,Antonio Giovinazzi,Alfa Romeo Racing,14,13,0,0,0,3,2,13
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,NOR,Lando Norris,McLaren,15,14,0,0,0,3,2,14
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,TSU,Yuki Tsunoda,AlphaTauri,16,15,0,0,0,3,2,15
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,MSC,Mick Schumacher,Haas F1 Team,17,16,0,0,0,3,2,16
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,MAZ,Nikita Mazepin,Haas F1 Team,18,17,0,0,0,3,2,17
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,STR,Lance Stroll,Aston Martin,19,18,0,0,0,3,2,18
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,RAI,Kimi Räikkönen,Alfa Romeo Racing,20,19,0,0,0,3,2,19
+2021-12,2021,12,Belgian Grand Prix,Spa-Francorchamps,2021-08-29,PER,Sergio Perez,Red Bull Racing,20,20,0,0,0,3,2,20

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,LEC,Charles Leclerc,Ferrari,1,1,1,0,0,58,29,1.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,PER,Sergio Perez,Red Bull Racing,3,2,0,0,0,58,29,5.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,RUS,George Russell,Mercedes,6,3,0,0,0,58,29,3.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,HAM,Lewis Hamilton,Mercedes,5,4,0,0,0,58,29,6.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,NOR,Lando Norris,McLaren,4,5,0,0,0,58,29,8.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,RIC,Daniel Ricciardo,McLaren,7,6,0,0,0,58,29,9.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,OCO,Esteban Ocon,Alpine,8,7,0,0,0,58,29,11.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,BOT,Valtteri Bottas,Alfa Romeo,12,8,0,0,0,58,29,13.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,GAS,Pierre Gasly,AlphaTauri,11,9,0,0,0,58,29,14.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,ALB,Alexander Albon,Williams,20,10,0,0,0,58,29,10.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,ZHO,Guanyu Zhou,Alfa Romeo,14,11,0,0,0,58,29,17.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,STR,Lance Stroll,Aston Martin,19,12,0,0,0,58,29,12.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,MSC,Mick Schumacher,Haas F1 Team,15,13,0,0,0,58,29,16.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,MAG,Kevin Magnussen,Haas F1 Team,16,14,0,0,0,58,29,7.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,TSU,Yuki Tsunoda,AlphaTauri,13,15,0,0,0,58,29,15.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,LAT,Nicholas Latifi,Williams,18,16,0,0,0,58,29,18.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,ALO,Fernando Alonso,Alpine,10,17,0,0,0,58,29,4.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,VER,Max Verstappen,Red Bull Racing,2,18,0,0,0,58,29,2.0
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,VET,Sebastian Vettel,Aston Martin,17,19,0,0,0,58,29,
+2022-03,2022,3,Australian Grand Prix,Melbourne,2022-04-10,SAI,Carlos Sainz,Ferrari,9,20,0,0,0,58,29,

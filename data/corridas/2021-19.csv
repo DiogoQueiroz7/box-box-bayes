@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,HAM,Lewis Hamilton,Mercedes,10,1,1,0,0,71,36,2
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,VER,Max Verstappen,Red Bull Racing,2,2,0,0,0,71,36,1
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,BOT,Valtteri Bottas,Mercedes,1,3,0,0,0,71,36,3
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,PER,Sergio Perez,Red Bull Racing,4,4,0,0,0,71,36,4
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,LEC,Charles Leclerc,Ferrari,6,5,0,0,0,71,36,5
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,SAI,Carlos Sainz,Ferrari,3,6,0,0,0,71,36,6
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,GAS,Pierre Gasly,AlphaTauri,7,7,0,0,0,71,36,7
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,OCO,Esteban Ocon,Alpine,8,8,0,0,0,71,36,11
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,ALO,Fernando Alonso,Alpine,12,9,0,0,0,71,36,13
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,NOR,Lando Norris,McLaren,5,10,0,0,0,71,36,9
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,VET,Sebastian Vettel,Aston Martin,9,11,0,0,0,71,36,12
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,RAI,Kimi Räikkönen,Alfa Romeo Racing,20,12,0,0,0,71,36,17
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,RUS,George Russell,Williams,17,13,0,0,0,71,36,14
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,GIO,Antonio Giovinazzi,Alfa Romeo Racing,13,14,0,0,0,71,36,16
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,TSU,Yuki Tsunoda,AlphaTauri,15,15,0,0,0,71,36,10
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,LAT,Nicholas Latifi,Williams,16,16,0,0,0,71,36,18
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,MAZ,Nikita Mazepin,Haas F1 Team,19,17,0,0,0,71,36,19
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,MSC,Mick Schumacher,Haas F1 Team,18,18,0,0,0,71,36,20
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,RIC,Daniel Ricciardo,McLaren,11,19,0,0,0,71,36,8
+2021-19,2021,19,São Paulo Grand Prix,São Paulo,2021-11-14,STR,Lance Stroll,Aston Martin,14,20,0,0,0,71,36,15

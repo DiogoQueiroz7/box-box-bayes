@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,53,27,3
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,NOR,Lando Norris,McLaren,2,2,0,0,0,53,27,4
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,PIA,Oscar Piastri,McLaren,3,3,0,0,0,53,27,5
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,LEC,Charles Leclerc,Ferrari,4,4,0,0,0,53,27,6
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,RUS,George Russell,Mercedes,5,5,0,0,0,53,27,7
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,ANT,Kimi Antonelli,Mercedes,6,6,0,0,0,53,27,1
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,HAM,Lewis Hamilton,Ferrari,8,7,0,0,0,53,27,2
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,HAD,Isack Hadjar,Racing Bulls,7,8,0,0,0,53,27,10
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,ALB,Alexander Albon,Williams,9,9,0,0,0,53,27,13
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,BEA,Oliver Bearman,Haas F1 Team,10,10,0,0,0,53,27,14
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,ALO,Fernando Alonso,Aston Martin,12,11,0,0,0,53,27,15
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,TSU,Yuki Tsunoda,Red Bull Racing,14,12,0,0,0,53,27,16
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,GAS,Pierre Gasly,Alpine,11,13,0,0,0,53,27,18
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,SAI,Carlos Sainz,Williams,15,14,0,0,0,53,27,9
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,DOO,Jack Doohan,Alpine,19,15,0,0,0,53,27,17
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,HUL,Nico Hulkenberg,Kick Sauber,16,16,0,0,0,53,27,19
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,LAW,Liam Lawson,Racing Bulls,13,17,0,0,0,53,27,8
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,OCO,Esteban Ocon,Haas F1 Team,18,18,0,0,0,53,27,11
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,BOR,Gabriel Bortoleto,Kick Sauber,17,19,0,0,0,53,27,12
+2025-03,2025,3,Japanese Grand Prix,Suzuka,2025-04-06,STR,Lance Stroll,Aston Martin,20,20,0,0,0,53,27,20

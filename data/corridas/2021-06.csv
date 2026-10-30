@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,PER,Sergio Perez,Red Bull Racing,6,1,1,0,0,51,26,2.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,VET,Sebastian Vettel,Aston Martin,11,2,0,0,0,51,26,7.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,GAS,Pierre Gasly,AlphaTauri,4,3,0,0,0,51,26,5.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,LEC,Charles Leclerc,Ferrari,1,4,0,0,0,51,26,6.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,NOR,Lando Norris,McLaren,9,5,0,0,0,51,26,9.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,ALO,Fernando Alonso,Alpine,8,6,0,0,0,51,26,13.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,TSU,Yuki Tsunoda,AlphaTauri,7,7,0,0,0,51,26,8.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,SAI,Carlos Sainz,Ferrari,5,8,0,0,0,51,26,12.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,RIC,Daniel Ricciardo,McLaren,13,9,0,0,0,51,26,11.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,RAI,Kimi Räikkönen,Alfa Romeo Racing,14,10,0,0,0,51,26,15.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,GIO,Antonio Giovinazzi,Alfa Romeo Racing,20,11,0,0,0,51,26,14.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,BOT,Valtteri Bottas,Mercedes,10,12,0,0,0,51,26,10.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,LAT,Nicholas Latifi,Williams,16,13,0,0,0,51,26,17.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,MSC,Mick Schumacher,Haas F1 Team,17,14,0,0,0,51,26,18.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,MAZ,Nikita Mazepin,Haas F1 Team,18,15,0,0,0,51,26,19.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,HAM,Lewis Hamilton,Mercedes,2,16,0,0,0,51,26,3.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,RUS,George Russell,Williams,15,17,0,0,0,51,26,16.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,VER,Max Verstappen,Red Bull Racing,3,18,0,0,0,51,26,1.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,STR,Lance Stroll,Aston Martin,19,19,0,0,0,51,26,4.0
+2021-06,2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,OCO,Esteban Ocon,Alpine,12,20,0,0,0,51,26,

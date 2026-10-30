@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,VER,Max Verstappen,Red Bull Racing,3,1,1,0,0,57,29,1.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,LEC,Charles Leclerc,Ferrari,1,2,0,0,0,57,29,2.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,SAI,Carlos Sainz,Ferrari,2,3,0,0,0,57,29,3.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,PER,Sergio Perez,Red Bull Racing,4,4,0,0,0,57,29,4.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,RUS,George Russell,Mercedes,12,5,0,0,0,57,29,5.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,HAM,Lewis Hamilton,Mercedes,6,6,0,0,0,57,29,7.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,BOT,Valtteri Bottas,Alfa Romeo,5,7,0,0,0,57,29,6.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,ALO,Fernando Alonso,Alpine,11,8,0,0,0,57,29,11.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,OCO,Esteban Ocon,Alpine,20,9,0,0,0,57,29,9.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,ALB,Alexander Albon,Williams,18,10,0,0,0,57,29,17.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,RIC,Daniel Ricciardo,McLaren,14,11,0,0,0,57,29,8.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,STR,Lance Stroll,Aston Martin,20,12,0,0,0,57,29,12.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,TSU,Yuki Tsunoda,AlphaTauri,9,13,0,0,0,57,29,18.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,LAT,Nicholas Latifi,Williams,19,14,0,0,0,57,29,19.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,MAG,Kevin Magnussen,Haas F1 Team,16,15,0,0,0,57,29,13.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,MSC,Mick Schumacher,Haas F1 Team,15,16,0,0,0,57,29,15.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,VET,Sebastian Vettel,Aston Martin,20,17,0,0,0,57,29,14.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,GAS,Pierre Gasly,AlphaTauri,7,18,0,0,0,57,29,10.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,NOR,Lando Norris,McLaren,8,19,0,0,0,57,29,16.0
+2022-05,2022,5,Miami Grand Prix,Miami,2022-05-08,ZHO,Guanyu Zhou,Alfa Romeo,17,20,0,0,0,57,29,

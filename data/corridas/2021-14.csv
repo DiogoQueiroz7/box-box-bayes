@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,RIC,Daniel Ricciardo,McLaren,2,1,1,0,0,53,27,1.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,NOR,Lando Norris,McLaren,3,2,0,0,0,53,27,3.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,PER,Sergio Perez,Red Bull Racing,8,3,0,0,0,53,27,4.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,BOT,Valtteri Bottas,Mercedes,19,4,0,0,0,53,27,6.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,LEC,Charles Leclerc,Ferrari,5,5,0,0,0,53,27,2.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,SAI,Carlos Sainz,Ferrari,6,6,0,0,0,53,27,5.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,STR,Lance Stroll,Aston Martin,9,7,0,0,0,53,27,7.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,ALO,Fernando Alonso,Alpine,10,8,0,0,0,53,27,8.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,RUS,George Russell,Williams,14,9,0,0,0,53,27,9.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,OCO,Esteban Ocon,Alpine,12,10,0,0,0,53,27,11.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,LAT,Nicholas Latifi,Williams,13,11,0,0,0,53,27,10.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,VET,Sebastian Vettel,Aston Martin,11,12,0,0,0,53,27,13.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,GIO,Antonio Giovinazzi,Alfa Romeo Racing,7,13,0,0,0,53,27,15.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,KUB,Robert Kubica,Alfa Romeo Racing,17,14,0,0,0,53,27,12.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,MSC,Mick Schumacher,Haas F1 Team,18,15,0,0,0,53,27,14.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,MAZ,Nikita Mazepin,Haas F1 Team,16,16,0,0,0,53,27,16.0
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,VER,Max Verstappen,Red Bull Racing,1,17,0,0,0,53,27,
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,HAM,Lewis Hamilton,Mercedes,4,18,0,0,0,53,27,
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,GAS,Pierre Gasly,AlphaTauri,20,19,0,0,0,53,27,
+2021-14,2021,14,Italian Grand Prix,Monza,2021-09-12,TSU,Yuki Tsunoda,AlphaTauri,20,20,0,0,0,53,27,

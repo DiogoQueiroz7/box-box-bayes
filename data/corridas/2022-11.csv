@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,LEC,Charles Leclerc,Ferrari,2,1,1,0,0,71,36,1
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,VER,Max Verstappen,Red Bull Racing,1,2,0,0,0,71,36,3
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,HAM,Lewis Hamilton,Mercedes,8,3,0,0,0,71,36,4
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,RUS,George Russell,Mercedes,4,4,0,0,0,71,36,9
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,OCO,Esteban Ocon,Alpine,6,5,0,0,0,71,36,5
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,MSC,Mick Schumacher,Haas F1 Team,9,6,0,0,0,71,36,6
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,NOR,Lando Norris,McLaren,10,7,0,0,0,71,36,8
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,MAG,Kevin Magnussen,Haas F1 Team,7,8,0,0,0,71,36,7
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,RIC,Daniel Ricciardo,McLaren,11,9,0,0,0,71,36,10
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,ALO,Fernando Alonso,Alpine,19,10,0,0,0,71,36,16
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,BOT,Valtteri Bottas,Alfa Romeo,20,11,0,0,0,71,36,13
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,ALB,Alexander Albon,Williams,15,12,0,0,0,71,36,11
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,STR,Lance Stroll,Aston Martin,12,13,0,0,0,71,36,15
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,ZHO,Guanyu Zhou,Alfa Romeo,13,14,0,0,0,71,36,18
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,GAS,Pierre Gasly,AlphaTauri,14,15,0,0,0,71,36,12
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,TSU,Yuki Tsunoda,AlphaTauri,16,16,0,0,0,71,36,17
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,VET,Sebastian Vettel,Aston Martin,18,17,0,0,0,71,36,14
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,SAI,Carlos Sainz,Ferrari,3,18,0,0,0,71,36,2
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,LAT,Nicholas Latifi,Williams,17,19,0,0,0,71,36,19
+2022-11,2022,11,Austrian Grand Prix,Spielberg,2022-07-10,PER,Sergio Perez,Red Bull Racing,5,20,0,0,0,71,36,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,VER,Max Verstappen,Red Bull Racing,2,1,1,0,0,71,36,4
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,LEC,Charles Leclerc,Ferrari,1,2,0,0,0,71,36,1
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,BOT,Valtteri Bottas,Mercedes,3,3,0,0,0,71,36,2
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,VET,Sebastian Vettel,Ferrari,9,4,0,0,0,71,36,3
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,HAM,Lewis Hamilton,Mercedes,4,5,0,0,0,71,36,5
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,NOR,Lando Norris,McLaren,5,6,0,0,0,71,36,8
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,GAS,Pierre Gasly,Red Bull Racing,8,7,0,0,0,71,36,9
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,SAI,Carlos Sainz,McLaren,19,8,0,0,0,71,36,6
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,RAI,Kimi Räikkönen,Alfa Romeo Racing,6,9,0,0,0,71,36,10
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,GIO,Antonio Giovinazzi,Alfa Romeo Racing,7,10,0,0,0,71,36,11
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,PER,Sergio Perez,Racing Point,13,11,0,0,0,71,36,12
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,RIC,Daniel Ricciardo,Renault,12,12,0,0,0,71,36,7
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,HUL,Nico Hulkenberg,Renault,15,13,0,0,0,71,36,13
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,STR,Lance Stroll,Racing Point,14,14,0,0,0,71,36,14
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,ALB,Alexander Albon,Toro Rosso,18,15,0,0,0,71,36,15
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,GRO,Romain Grosjean,Haas F1 Team,11,16,0,0,0,71,36,16
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,KVY,Daniil Kvyat,Toro Rosso,16,17,0,0,0,71,36,17
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,RUS,George Russell,Williams,20,18,0,0,0,71,36,18
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,MAG,Kevin Magnussen,Haas F1 Team,10,19,0,0,0,71,36,19
+2019-09,2019,9,Austrian Grand Prix,Spielberg,2019-06-30,KUB,Robert Kubica,Williams,17,20,0,0,0,71,36,20

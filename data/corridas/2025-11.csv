@@ -1,0 +1,20 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,NOR,Lando Norris,McLaren,1,1,1,0,0,70,35,1
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,PIA,Oscar Piastri,McLaren,3,2,0,0,0,70,35,2
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,LEC,Charles Leclerc,Ferrari,2,3,0,0,0,70,35,3
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,HAM,Lewis Hamilton,Ferrari,4,4,0,0,0,70,35,4
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,RUS,George Russell,Mercedes,5,5,0,0,0,70,35,5
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,LAW,Liam Lawson,Racing Bulls,6,6,0,0,0,70,35,11
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,ALO,Fernando Alonso,Aston Martin,11,7,0,0,0,70,35,12
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,BOR,Gabriel Bortoleto,Kick Sauber,8,8,0,0,0,70,35,6
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,HUL,Nico Hulkenberg,Kick Sauber,20,9,0,0,0,70,35,7
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,OCO,Esteban Ocon,Haas F1 Team,17,10,0,0,0,70,35,8
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,BEA,Oliver Bearman,Haas F1 Team,15,11,0,0,0,70,35,9
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,HAD,Isack Hadjar,Racing Bulls,13,12,0,0,0,70,35,14
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,GAS,Pierre Gasly,Alpine,10,13,0,0,0,70,35,10
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,STR,Lance Stroll,Aston Martin,16,14,0,0,0,70,35,15
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,COL,Franco Colapinto,Alpine,14,15,0,0,0,70,35,13
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,TSU,Yuki Tsunoda,Red Bull Racing,18,16,0,0,0,70,35,16
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,ALB,Alexander Albon,Williams,12,17,0,0,0,70,35,
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,VER,Max Verstappen,Red Bull Racing,7,18,0,0,0,70,35,
+2025-11,2025,11,Austrian Grand Prix,Spielberg,2025-06-29,ANT,Kimi Antonelli,Mercedes,9,19,0,0,0,70,35,

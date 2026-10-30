@@ -1,0 +1,20 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,SAI,Carlos Sainz,Ferrari,2,1,1,0,0,58,29,1
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,LEC,Charles Leclerc,Ferrari,4,2,0,0,0,58,29,2
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,NOR,Lando Norris,McLaren,3,3,0,0,0,58,29,3
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,PIA,Oscar Piastri,McLaren,5,4,0,0,0,58,29,4
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,PER,Sergio Perez,Red Bull Racing,6,5,0,0,0,58,29,5
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,STR,Lance Stroll,Aston Martin,9,6,0,0,0,58,29,8
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,TSU,Yuki Tsunoda,RB,8,7,0,0,0,58,29,9
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,ALO,Fernando Alonso,Aston Martin,10,8,0,0,0,58,29,6
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,HUL,Nico Hulkenberg,Haas F1 Team,16,9,0,0,0,58,29,10
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,MAG,Kevin Magnussen,Haas F1 Team,14,10,0,0,0,58,29,11
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,ALB,Alexander Albon,Williams,12,11,0,0,0,58,29,14
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,RIC,Daniel Ricciardo,RB,18,12,0,0,0,58,29,15
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,GAS,Pierre Gasly,Alpine,17,13,0,0,0,58,29,13
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,BOT,Valtteri Bottas,Kick Sauber,13,14,0,0,0,58,29,16
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,ZHO,Guanyu Zhou,Kick Sauber,19,15,0,0,0,58,29,12
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,OCO,Esteban Ocon,Alpine,15,16,0,0,0,58,29,17
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,RUS,George Russell,Mercedes,7,17,0,0,0,58,29,7
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,HAM,Lewis Hamilton,Mercedes,11,18,0,0,0,58,29,
+2024-03,2024,3,Australian Grand Prix,Melbourne,2024-03-24,VER,Max Verstappen,Red Bull Racing,1,19,0,0,0,58,29,

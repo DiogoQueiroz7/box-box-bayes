@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,PIA,Oscar Piastri,McLaren,2,1,1,0,0,51,26,1
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,LEC,Charles Leclerc,Ferrari,1,2,0,0,0,51,26,2
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,RUS,George Russell,Mercedes,5,3,0,0,0,51,26,8
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,NOR,Lando Norris,McLaren,15,4,0,0,0,51,26,6
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,VER,Max Verstappen,Red Bull Racing,6,5,0,0,0,51,26,7
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,ALO,Fernando Alonso,Aston Martin,7,6,0,0,0,51,26,9
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,ALB,Alexander Albon,Williams,9,7,0,0,0,51,26,5
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,COL,Franco Colapinto,Williams,8,8,0,0,0,51,26,10
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,HAM,Lewis Hamilton,Mercedes,19,9,0,0,0,51,26,14
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,BEA,Oliver Bearman,Haas F1 Team,10,10,0,0,0,51,26,13
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,HUL,Nico Hulkenberg,Haas F1 Team,12,11,0,0,0,51,26,11
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,GAS,Pierre Gasly,Alpine,18,12,0,0,0,51,26,12
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,RIC,Daniel Ricciardo,RB,14,13,0,0,0,51,26,15
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,ZHO,Guanyu Zhou,Kick Sauber,17,14,0,0,0,51,26,16
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,OCO,Esteban Ocon,Alpine,20,15,0,0,0,51,26,17
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,BOT,Valtteri Bottas,Kick Sauber,16,16,0,0,0,51,26,18
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,PER,Sergio Perez,Red Bull Racing,4,17,0,0,0,51,26,3
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,SAI,Carlos Sainz,Ferrari,3,18,0,0,0,51,26,4
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,STR,Lance Stroll,Aston Martin,13,19,0,0,0,51,26,19
+2024-17,2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,TSU,Yuki Tsunoda,RB,11,20,0,0,0,51,26,

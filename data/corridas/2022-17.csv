@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,PER,Sergio Perez,Red Bull Racing,2,1,1,1,34,59,30,1
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,LEC,Charles Leclerc,Ferrari,1,2,0,1,34,59,30,2
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,SAI,Carlos Sainz,Ferrari,4,3,0,1,34,59,30,3
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,NOR,Lando Norris,McLaren,6,4,0,1,34,59,30,5
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,RIC,Daniel Ricciardo,McLaren,16,5,0,1,34,59,30,10
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,STR,Lance Stroll,Aston Martin,11,6,0,1,34,59,30,9
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,VER,Max Verstappen,Red Bull Racing,8,7,0,1,34,59,30,6
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,VET,Sebastian Vettel,Aston Martin,13,8,0,1,34,59,30,8
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,HAM,Lewis Hamilton,Mercedes,3,9,0,1,34,59,30,4
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,GAS,Pierre Gasly,AlphaTauri,7,10,0,1,34,59,30,7
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,BOT,Valtteri Bottas,Alfa Romeo,15,11,0,1,34,59,30,13
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,MAG,Kevin Magnussen,Haas F1 Team,9,12,0,1,34,59,30,14
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,MSC,Mick Schumacher,Haas F1 Team,12,13,0,1,34,59,30,11
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,RUS,George Russell,Mercedes,20,14,0,1,34,59,30,15
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,TSU,Yuki Tsunoda,AlphaTauri,10,15,0,1,34,59,30,12
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,OCO,Esteban Ocon,Alpine,17,16,0,1,34,59,30,
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,ALB,Alexander Albon,Williams,18,17,0,1,34,59,30,
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,ALO,Fernando Alonso,Alpine,5,18,0,1,34,59,30,
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,LAT,Nicholas Latifi,Williams,19,19,0,1,34,59,30,
+2022-17,2022,17,Singapore Grand Prix,Marina Bay,2022-10-02,ZHO,Guanyu Zhou,Alfa Romeo,14,20,0,1,34,59,30,

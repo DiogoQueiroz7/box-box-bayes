@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,LEC,Charles Leclerc,Ferrari,4,1,1,0,0,53,27,3
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,PIA,Oscar Piastri,McLaren,2,2,0,0,0,53,27,1
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,NOR,Lando Norris,McLaren,1,3,0,0,0,53,27,2
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,SAI,Carlos Sainz,Ferrari,5,4,0,0,0,53,27,4
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,HAM,Lewis Hamilton,Mercedes,6,5,0,0,0,53,27,5
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,VER,Max Verstappen,Red Bull Racing,7,6,0,0,0,53,27,6
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,RUS,George Russell,Mercedes,3,7,0,0,0,53,27,8
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,PER,Sergio Perez,Red Bull Racing,8,8,0,0,0,53,27,7
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,ALB,Alexander Albon,Williams,9,9,0,0,0,53,27,11
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,MAG,Kevin Magnussen,Haas F1 Team,13,10,0,0,0,53,27,12
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,ALO,Fernando Alonso,Aston Martin,11,11,0,0,0,53,27,9
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,COL,Franco Colapinto,Williams,18,12,0,0,0,53,27,16
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,RIC,Daniel Ricciardo,RB,12,13,0,0,0,53,27,14
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,OCO,Esteban Ocon,Alpine,15,14,0,0,0,53,27,10
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,GAS,Pierre Gasly,Alpine,14,15,0,0,0,53,27,15
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,BOT,Valtteri Bottas,Kick Sauber,19,16,0,0,0,53,27,13
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,HUL,Nico Hulkenberg,Haas F1 Team,10,17,0,0,0,53,27,18
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,ZHO,Guanyu Zhou,Kick Sauber,20,18,0,0,0,53,27,19
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,STR,Lance Stroll,Aston Martin,17,19,0,0,0,53,27,17
+2024-16,2024,16,Italian Grand Prix,Monza,2024-09-01,TSU,Yuki Tsunoda,RB,16,20,0,0,0,53,27,

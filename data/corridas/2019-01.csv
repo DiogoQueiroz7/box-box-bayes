@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,BOT,Valtteri Bottas,Mercedes,2,1,1,0,0,58,29,1
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,HAM,Lewis Hamilton,Mercedes,1,2,0,0,0,58,29,2
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,VER,Max Verstappen,Red Bull Racing,4,3,0,0,0,58,29,4
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,VET,Sebastian Vettel,Ferrari,3,4,0,0,0,58,29,3
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,LEC,Charles Leclerc,Ferrari,5,5,0,0,0,58,29,5
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,MAG,Kevin Magnussen,Haas F1 Team,7,6,0,0,0,58,29,7
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,HUL,Nico Hulkenberg,Renault,11,7,0,0,0,58,29,8
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,RAI,Kimi Räikkönen,Alfa Romeo Racing,9,8,0,0,0,58,29,9
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,STR,Lance Stroll,Racing Point,16,9,0,0,0,58,29,10
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,KVY,Daniil Kvyat,Toro Rosso,15,10,0,0,0,58,29,11
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,GAS,Pierre Gasly,Red Bull Racing,17,11,0,0,0,58,29,6
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,NOR,Lando Norris,McLaren,8,12,0,0,0,58,29,12
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,PER,Sergio Perez,Racing Point,10,13,0,0,0,58,29,14
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,ALB,Alexander Albon,Toro Rosso,13,14,0,0,0,58,29,15
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,GIO,Antonio Giovinazzi,Alfa Romeo Racing,14,15,0,0,0,58,29,17
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,RUS,George Russell,Williams,19,16,0,0,0,58,29,18
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,KUB,Robert Kubica,Williams,20,17,0,0,0,58,29,19
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,GRO,Romain Grosjean,Haas F1 Team,6,18,0,0,0,58,29,13
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,RIC,Daniel Ricciardo,Renault,12,19,0,0,0,58,29,16
+2019-01,2019,1,Australian Grand Prix,Melbourne,2019-03-17,SAI,Carlos Sainz,McLaren,18,20,0,0,0,58,29,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,PIA,Oscar Piastri,McLaren,4,1,1,0,0,57,29,1
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,NOR,Lando Norris,McLaren,2,2,0,0,0,57,29,2
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,RUS,George Russell,Mercedes,5,3,0,0,0,57,29,3
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,VER,Max Verstappen,Red Bull Racing,1,4,0,0,0,57,29,5
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,ALB,Alexander Albon,Williams,7,5,0,0,0,57,29,7
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,ANT,Kimi Antonelli,Mercedes,3,6,0,0,0,57,29,6
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,LEC,Charles Leclerc,Ferrari,8,7,0,0,0,57,29,4
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,HAM,Lewis Hamilton,Ferrari,12,8,0,0,0,57,29,10
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,SAI,Carlos Sainz,Williams,6,9,0,0,0,57,29,8
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,TSU,Yuki Tsunoda,Red Bull Racing,10,10,0,0,0,57,29,12
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,HAD,Isack Hadjar,Racing Bulls,11,11,0,0,0,57,29,13
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,OCO,Esteban Ocon,Haas F1 Team,9,12,0,0,0,57,29,14
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,GAS,Pierre Gasly,Alpine,20,13,0,0,0,57,29,11
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,HUL,Nico Hulkenberg,Kick Sauber,16,14,0,0,0,57,29,9
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,ALO,Fernando Alonso,Aston Martin,17,15,0,0,0,57,29,16
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,STR,Lance Stroll,Aston Martin,18,16,0,0,0,57,29,17
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,LAW,Liam Lawson,Racing Bulls,15,17,0,0,0,57,29,18
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,BOR,Gabriel Bortoleto,Kick Sauber,13,18,0,0,0,57,29,15
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,BEA,Oliver Bearman,Haas F1 Team,19,19,0,0,0,57,29,
+2025-06,2025,6,Miami Grand Prix,Miami Gardens,2025-05-04,DOO,Jack Doohan,Alpine,14,20,0,0,0,57,29,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,56,28,1
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,NOR,Lando Norris,McLaren,2,2,0,0,0,56,28,2
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,LEC,Charles Leclerc,Ferrari,3,3,0,0,0,56,28,7
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,HAM,Lewis Hamilton,Ferrari,5,4,0,0,0,56,28,3
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,PIA,Oscar Piastri,McLaren,6,5,0,0,0,56,28,4
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,RUS,George Russell,Mercedes,4,6,0,0,0,56,28,5
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,TSU,Yuki Tsunoda,Red Bull Racing,13,7,0,0,0,56,28,6
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,HUL,Nico Hulkenberg,Kick Sauber,11,8,0,0,0,56,28,9
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,BEA,Oliver Bearman,Haas F1 Team,8,9,0,0,0,56,28,8
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,ALO,Fernando Alonso,Aston Martin,10,10,0,0,0,56,28,10
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,LAW,Liam Lawson,Racing Bulls,12,11,0,0,0,56,28,11
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,STR,Lance Stroll,Aston Martin,19,12,0,0,0,56,28,12
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,ANT,Kimi Antonelli,Mercedes,7,13,0,0,0,56,28,13
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,ALB,Alexander Albon,Williams,18,14,0,0,0,56,28,14
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,OCO,Esteban Ocon,Haas F1 Team,17,15,0,0,0,56,28,18
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,HAD,Isack Hadjar,Racing Bulls,20,16,0,0,0,56,28,16
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,COL,Franco Colapinto,Alpine,15,17,0,0,0,56,28,15
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,BOR,Gabriel Bortoleto,Kick Sauber,16,18,0,0,0,56,28,17
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,GAS,Pierre Gasly,Alpine,14,19,0,0,0,56,28,19
+2025-19,2025,19,United States Grand Prix,Austin,2025-10-19,SAI,Carlos Sainz,Williams,9,20,0,0,0,56,28,

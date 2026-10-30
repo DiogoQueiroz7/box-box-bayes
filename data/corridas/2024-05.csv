@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,56,28,1
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,NOR,Lando Norris,McLaren,4,2,0,0,0,56,28,2
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,PER,Sergio Perez,Red Bull Racing,2,3,0,0,0,56,28,4
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,LEC,Charles Leclerc,Ferrari,6,4,0,0,0,56,28,3
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,SAI,Carlos Sainz,Ferrari,7,5,0,0,0,56,28,6
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,RUS,George Russell,Mercedes,8,6,0,0,0,56,28,7
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,ALO,Fernando Alonso,Aston Martin,3,7,0,0,0,56,28,5
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,PIA,Oscar Piastri,McLaren,5,8,0,0,0,56,28,8
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,HAM,Lewis Hamilton,Mercedes,18,9,0,0,0,56,28,11
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,HUL,Nico Hulkenberg,Haas F1 Team,9,10,0,0,0,56,28,10
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,OCO,Esteban Ocon,Alpine,13,11,0,0,0,56,28,12
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,ALB,Alexander Albon,Williams,14,12,0,0,0,56,28,13
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,GAS,Pierre Gasly,Alpine,15,13,0,0,0,56,28,16
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,ZHO,Guanyu Zhou,Kick Sauber,16,14,0,0,0,56,28,15
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,STR,Lance Stroll,Aston Martin,11,15,0,0,0,56,28,18
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,MAG,Kevin Magnussen,Haas F1 Team,17,16,0,0,0,56,28,17
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,SAR,Logan Sargeant,Williams,20,17,0,0,0,56,28,14
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,RIC,Daniel Ricciardo,RB,12,18,0,0,0,56,28,9
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,TSU,Yuki Tsunoda,RB,19,19,0,0,0,56,28,
+2024-05,2024,5,Chinese Grand Prix,Shanghai,2024-04-21,BOT,Valtteri Bottas,Kick Sauber,10,20,0,0,0,56,28,

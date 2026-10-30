@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,71,36,1.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,BOT,Valtteri Bottas,Mercedes,5,2,0,0,0,71,36,3.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,NOR,Lando Norris,McLaren,2,3,0,0,0,71,36,4.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,HAM,Lewis Hamilton,Mercedes,4,4,0,0,0,71,36,2.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,PER,Sergio Perez,Red Bull Racing,3,5,0,0,0,71,36,9.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,SAI,Carlos Sainz,Ferrari,10,6,0,0,0,71,36,5.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,RIC,Daniel Ricciardo,McLaren,13,7,0,0,0,71,36,8.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,LEC,Charles Leclerc,Ferrari,12,8,0,0,0,71,36,10.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,GAS,Pierre Gasly,AlphaTauri,6,9,0,0,0,71,36,7.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,ALO,Fernando Alonso,Alpine,14,10,0,0,0,71,36,15.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,RUS,George Russell,Williams,8,11,0,0,0,71,36,14.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,TSU,Yuki Tsunoda,AlphaTauri,7,12,0,0,0,71,36,11.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,STR,Lance Stroll,Aston Martin,9,13,0,0,0,71,36,13.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,GIO,Antonio Giovinazzi,Alfa Romeo Racing,15,14,0,0,0,71,36,17.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,LAT,Nicholas Latifi,Williams,18,15,0,0,0,71,36,16.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,RAI,Kimi Räikkönen,Alfa Romeo Racing,16,16,0,0,0,71,36,6.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,VET,Sebastian Vettel,Aston Martin,11,17,0,0,0,71,36,12.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,MSC,Mick Schumacher,Haas F1 Team,19,18,0,0,0,71,36,18.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,MAZ,Nikita Mazepin,Haas F1 Team,20,19,0,0,0,71,36,19.0
+2021-09,2021,9,Austrian Grand Prix,Spielberg,2021-07-04,OCO,Esteban Ocon,Alpine,17,20,0,0,0,71,36,

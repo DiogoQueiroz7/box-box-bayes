@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,50,25,2.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,VER,Max Verstappen,Red Bull Racing,3,2,0,0,0,50,25,1.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,BOT,Valtteri Bottas,Mercedes,2,3,0,0,0,50,25,5.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,OCO,Esteban Ocon,Alpine,9,4,0,0,0,50,25,3.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,RIC,Daniel Ricciardo,McLaren,11,5,0,0,0,50,25,4.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,GAS,Pierre Gasly,AlphaTauri,6,6,0,0,0,50,25,6.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,LEC,Charles Leclerc,Ferrari,4,7,0,0,0,50,25,9.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,SAI,Carlos Sainz,Ferrari,15,8,0,0,0,50,25,8.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,GIO,Antonio Giovinazzi,Alfa Romeo Racing,10,9,0,0,0,50,25,7.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,NOR,Lando Norris,McLaren,7,10,0,0,0,50,25,13.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,STR,Lance Stroll,Aston Martin,18,11,0,0,0,50,25,10.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,LAT,Nicholas Latifi,Williams,16,12,0,0,0,50,25,14.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,TSU,Yuki Tsunoda,AlphaTauri,8,13,0,0,0,50,25,16.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,ALO,Fernando Alonso,Alpine,13,14,0,0,0,50,25,15.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,RAI,Kimi Räikkönen,Alfa Romeo Racing,12,15,0,0,0,50,25,12.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,VET,Sebastian Vettel,Aston Martin,17,16,0,0,0,50,25,11.0
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,PER,Sergio Perez,Red Bull Racing,5,17,0,0,0,50,25,
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,RUS,George Russell,Williams,14,18,0,0,0,50,25,
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,MAZ,Nikita Mazepin,Haas F1 Team,20,19,0,0,0,50,25,
+2021-21,2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,MSC,Mick Schumacher,Haas F1 Team,19,20,0,0,0,50,25,

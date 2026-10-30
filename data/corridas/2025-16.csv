@@ -1,0 +1,20 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,53,27,1
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,NOR,Lando Norris,McLaren,2,2,0,0,0,53,27,2
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,PIA,Oscar Piastri,McLaren,3,3,0,0,0,53,27,3
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,LEC,Charles Leclerc,Ferrari,4,4,0,0,0,53,27,4
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,RUS,George Russell,Mercedes,5,5,0,0,0,53,27,6
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,HAM,Lewis Hamilton,Ferrari,10,6,0,0,0,53,27,5
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,ALB,Alexander Albon,Williams,14,7,0,0,0,53,27,8
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,BOR,Gabriel Bortoleto,Kick Sauber,7,8,0,0,0,53,27,15
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,ANT,Kimi Antonelli,Mercedes,6,9,0,0,0,53,27,7
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,HAD,Isack Hadjar,Racing Bulls,19,10,0,0,0,53,27,12
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,SAI,Carlos Sainz,Williams,13,11,0,0,0,53,27,9
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,BEA,Oliver Bearman,Haas F1 Team,11,12,0,0,0,53,27,16
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,TSU,Yuki Tsunoda,Red Bull Racing,9,13,0,0,0,53,27,17
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,LAW,Liam Lawson,Racing Bulls,18,14,0,0,0,53,27,18
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,OCO,Esteban Ocon,Haas F1 Team,15,15,0,0,0,53,27,10
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,GAS,Pierre Gasly,Alpine,20,16,0,0,0,53,27,14
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,COL,Franco Colapinto,Alpine,17,17,0,0,0,53,27,13
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,STR,Lance Stroll,Aston Martin,16,18,0,0,0,53,27,11
+2025-16,2025,16,Italian Grand Prix,Monza,2025-09-07,ALO,Fernando Alonso,Aston Martin,8,19,0,0,0,53,27,

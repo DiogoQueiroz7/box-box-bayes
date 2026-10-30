@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,71,36,1
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,GAS,Pierre Gasly,Toro Rosso,6,2,0,0,0,71,36,7
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,SAI,Carlos Sainz,McLaren,20,3,0,0,0,71,36,15
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,RAI,Kimi Räikkönen,Alfa Romeo Racing,8,4,0,0,0,71,36,8
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,GIO,Antonio Giovinazzi,Alfa Romeo Racing,12,5,0,0,0,71,36,9
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,RIC,Daniel Ricciardo,Renault,11,6,0,0,0,71,36,11
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,HAM,Lewis Hamilton,Mercedes,3,7,0,0,0,71,36,2
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,NOR,Lando Norris,McLaren,10,8,0,0,0,71,36,13
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,PER,Sergio Perez,Racing Point,15,9,0,0,0,71,36,10
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,KVY,Daniil Kvyat,Toro Rosso,16,10,0,0,0,71,36,14
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,MAG,Kevin Magnussen,Haas F1 Team,9,11,0,0,0,71,36,18
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,RUS,George Russell,Williams,18,12,0,0,0,71,36,19
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,GRO,Romain Grosjean,Haas F1 Team,7,13,0,0,0,71,36,12
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,ALB,Alexander Albon,Red Bull Racing,5,14,0,0,0,71,36,5
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,HUL,Nico Hulkenberg,Renault,13,15,0,0,0,71,36,17
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,KUB,Robert Kubica,Williams,19,16,0,0,0,71,36,20
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,VET,Sebastian Vettel,Ferrari,2,17,0,0,0,71,36,3
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,LEC,Charles Leclerc,Ferrari,14,18,0,0,0,71,36,6
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,STR,Lance Stroll,Racing Point,17,19,0,0,0,71,36,16
+2019-20,2019,20,Brazilian Grand Prix,São Paulo,2019-11-17,BOT,Valtteri Bottas,Mercedes,4,20,0,0,0,71,36,4

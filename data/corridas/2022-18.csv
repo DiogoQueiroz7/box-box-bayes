@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,VER,Max Verstappen,Red Bull Racing,1,1,1,1,29,29,15,1
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,PER,Sergio Perez,Red Bull Racing,4,2,0,1,29,29,15,3
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,LEC,Charles Leclerc,Ferrari,2,3,0,1,29,29,15,2
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,OCO,Esteban Ocon,Alpine,5,4,0,1,29,29,15,4
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,HAM,Lewis Hamilton,Mercedes,6,5,0,1,29,29,15,5
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,VET,Sebastian Vettel,Aston Martin,9,6,0,1,29,29,15,6
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,ALO,Fernando Alonso,Alpine,7,7,0,1,29,29,15,7
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,RUS,George Russell,Mercedes,8,8,0,1,29,29,15,9
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,LAT,Nicholas Latifi,Williams,20,9,0,1,29,29,15,8
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,NOR,Lando Norris,McLaren,10,10,0,1,29,29,15,10
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,RIC,Daniel Ricciardo,McLaren,11,11,0,1,29,29,15,13
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,STR,Lance Stroll,Aston Martin,19,12,0,1,29,29,15,12
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,TSU,Yuki Tsunoda,AlphaTauri,13,13,0,1,29,29,15,11
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,MAG,Kevin Magnussen,Haas F1 Team,18,14,0,1,29,29,15,14
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,BOT,Valtteri Bottas,Alfa Romeo,12,15,0,1,29,29,15,15
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,ZHO,Guanyu Zhou,Alfa Romeo,14,16,0,1,29,29,15,17
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,MSC,Mick Schumacher,Haas F1 Team,15,17,0,1,29,29,15,18
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,GAS,Pierre Gasly,AlphaTauri,17,18,0,1,29,29,15,16
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,SAI,Carlos Sainz,Ferrari,3,19,0,1,29,29,15,
+2022-18,2022,18,Japanese Grand Prix,Suzuka,2022-10-09,ALB,Alexander Albon,Williams,16,20,0,1,29,29,15,

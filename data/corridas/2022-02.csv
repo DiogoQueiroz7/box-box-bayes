@@ -1,0 +1,19 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,VER,Max Verstappen,Red Bull Racing,4,1,1,0,0,50,25,2.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,LEC,Charles Leclerc,Ferrari,2,2,0,0,0,50,25,1.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,SAI,Carlos Sainz,Ferrari,3,3,0,0,0,50,25,3.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,PER,Sergio Perez,Red Bull Racing,1,4,0,0,0,50,25,4.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,RUS,George Russell,Mercedes,6,5,0,0,0,50,25,5.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,OCO,Esteban Ocon,Alpine,5,6,0,0,0,50,25,10.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,NOR,Lando Norris,McLaren,11,7,0,0,0,50,25,13.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,GAS,Pierre Gasly,AlphaTauri,9,8,0,0,0,50,25,14.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,MAG,Kevin Magnussen,Haas F1 Team,10,9,0,0,0,50,25,7.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,HAM,Lewis Hamilton,Mercedes,15,10,0,0,0,50,25,6.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,ZHO,Guanyu Zhou,Alfa Romeo,12,11,0,0,0,50,25,15.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,HUL,Nico Hulkenberg,Aston Martin,17,12,0,0,0,50,25,12.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,STR,Lance Stroll,Aston Martin,13,13,0,0,0,50,25,16.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,ALB,Alexander Albon,Williams,16,14,0,0,0,50,25,17.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,BOT,Valtteri Bottas,Alfa Romeo,8,15,0,0,0,50,25,9.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,ALO,Fernando Alonso,Alpine,7,16,0,0,0,50,25,8.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,RIC,Daniel Ricciardo,McLaren,14,17,0,0,0,50,25,11.0
+2022-02,2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,LAT,Nicholas Latifi,Williams,18,18,0,0,0,50,25,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,VER,Max Verstappen,Red Bull Racing,4,1,1,0,0,71,36,1
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,RAI,Kimi Räikkönen,Ferrari,3,2,0,0,0,71,36,3
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,VET,Sebastian Vettel,Ferrari,6,3,0,0,0,71,36,5
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,GRO,Romain Grosjean,Haas F1 Team,5,4,0,0,0,71,36,6
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,MAG,Kevin Magnussen,Haas F1 Team,8,5,0,0,0,71,36,8
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,OCO,Esteban Ocon,Force India,11,6,0,0,0,71,36,7
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,PER,Sergio Perez,Force India,16,7,0,0,0,71,36,9
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,ALO,Fernando Alonso,McLaren,13,8,0,0,0,71,36,14
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,LEC,Charles Leclerc,Sauber,18,9,0,0,0,71,36,13
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,ERI,Marcus Ericsson,Sauber,20,10,0,0,0,71,36,10
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,GAS,Pierre Gasly,Toro Rosso,12,11,0,0,0,71,36,11
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,SAI,Carlos Sainz,Renault,9,12,0,0,0,71,36,17
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,SIR,Sergey Sirotkin,Williams,17,13,0,0,0,71,36,16
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,STR,Lance Stroll,Williams,14,14,0,0,0,71,36,15
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,VAN,Stoffel Vandoorne,McLaren,15,15,0,0,0,71,36,18
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,HAM,Lewis Hamilton,Mercedes,2,16,0,0,0,71,36,4
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,HAR,Brendon Hartley,Toro Rosso,19,17,0,0,0,71,36,12
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,RIC,Daniel Ricciardo,Red Bull Racing,7,18,0,0,0,71,36,2
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,BOT,Valtteri Bottas,Mercedes,1,19,0,0,0,71,36,
+2018-09,2018,9,Austrian Grand Prix,Spielberg,2018-07-01,HUL,Nico Hulkenberg,Renault,10,20,0,0,0,71,36,

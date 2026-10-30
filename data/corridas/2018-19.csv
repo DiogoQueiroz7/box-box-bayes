@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,VER,Max Verstappen,Red Bull Racing,2,1,1,0,0,71,36,1
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,VET,Sebastian Vettel,Ferrari,4,2,0,0,0,71,36,3
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,RAI,Kimi Räikkönen,Ferrari,6,3,0,0,0,71,36,6
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,HAM,Lewis Hamilton,Mercedes,3,4,0,0,0,71,36,2
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,BOT,Valtteri Bottas,Mercedes,5,5,0,0,0,71,36,5
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,HUL,Nico Hulkenberg,Renault,7,6,0,0,0,71,36,7
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,LEC,Charles Leclerc,Sauber,9,7,0,0,0,71,36,9
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,VAN,Stoffel Vandoorne,McLaren,15,8,0,0,0,71,36,11
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,ERI,Marcus Ericsson,Sauber,10,9,0,0,0,71,36,13
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,GAS,Pierre Gasly,Toro Rosso,20,10,0,0,0,71,36,18
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,OCO,Esteban Ocon,Racing Point,11,11,0,0,0,71,36,15
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,STR,Lance Stroll,Williams,17,12,0,0,0,71,36,16
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,SIR,Sergey Sirotkin,Williams,19,13,0,0,0,71,36,17
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,HAR,Brendon Hartley,Toro Rosso,14,14,0,0,0,71,36,14
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,MAG,Kevin Magnussen,Haas F1 Team,16,15,0,0,0,71,36,10
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,GRO,Romain Grosjean,Haas F1 Team,18,16,0,0,0,71,36,12
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,RIC,Daniel Ricciardo,Red Bull Racing,1,17,0,0,0,71,36,4
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,PER,Sergio Perez,Racing Point,13,18,0,0,0,71,36,8
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,SAI,Carlos Sainz,Renault,8,19,0,0,0,71,36,
+2018-19,2018,19,Mexican Grand Prix,Mexico City,2018-10-28,ALO,Fernando Alonso,McLaren,12,20,0,0,0,71,36,

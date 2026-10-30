@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,VER,Max Verstappen,Red Bull Racing,2,1,1,0,0,53,27,1
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,HAM,Lewis Hamilton,Mercedes,4,2,0,0,0,53,27,2
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,RUS,George Russell,Mercedes,6,3,0,0,0,53,27,4
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,PER,Sergio Perez,Red Bull Racing,3,4,0,0,0,53,27,3
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,SAI,Carlos Sainz,Ferrari,19,5,0,0,0,53,27,5
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,ALO,Fernando Alonso,Alpine,7,6,0,0,0,53,27,6
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,NOR,Lando Norris,McLaren,5,7,0,0,0,53,27,7
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,OCO,Esteban Ocon,Alpine,10,8,0,0,0,53,27,9
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,RIC,Daniel Ricciardo,McLaren,9,9,0,0,0,53,27,8
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,STR,Lance Stroll,Aston Martin,15,10,0,0,0,53,27,10
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,VET,Sebastian Vettel,Aston Martin,12,11,0,0,0,53,27,13
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,GAS,Pierre Gasly,AlphaTauri,14,12,0,0,0,53,27,12
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,ALB,Alexander Albon,Williams,13,13,0,0,0,53,27,11
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,BOT,Valtteri Bottas,Alfa Romeo,11,14,0,0,0,53,27,14
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,MSC,Mick Schumacher,Haas F1 Team,17,15,0,0,0,53,27,17
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,ZHO,Guanyu Zhou,Alfa Romeo,16,16,0,0,0,53,27,18
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,LAT,Nicholas Latifi,Williams,18,17,0,0,0,53,27,16
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,MAG,Kevin Magnussen,Haas F1 Team,20,18,0,0,0,53,27,15
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,LEC,Charles Leclerc,Ferrari,1,19,0,0,0,53,27,
+2022-12,2022,12,French Grand Prix,Le Castellet,2022-07-24,TSU,Yuki Tsunoda,AlphaTauri,8,20,0,0,0,53,27,

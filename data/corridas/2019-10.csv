@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,HAM,Lewis Hamilton,Mercedes,2,1,1,0,0,52,26,1
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,BOT,Valtteri Bottas,Mercedes,1,2,0,0,0,52,26,2
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,LEC,Charles Leclerc,Ferrari,3,3,0,0,0,52,26,6
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,GAS,Pierre Gasly,Red Bull Racing,5,4,0,0,0,52,26,4
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,VER,Max Verstappen,Red Bull Racing,4,5,0,0,0,52,26,5
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,SAI,Carlos Sainz,McLaren,13,6,0,0,0,52,26,7
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,RIC,Daniel Ricciardo,Renault,7,7,0,0,0,52,26,9
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,RAI,Kimi Räikkönen,Alfa Romeo Racing,12,8,0,0,0,52,26,11
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,KVY,Daniil Kvyat,Toro Rosso,17,9,0,0,0,52,26,14
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,HUL,Nico Hulkenberg,Renault,10,10,0,0,0,52,26,12
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,NOR,Lando Norris,McLaren,8,11,0,0,0,52,26,8
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,ALB,Alexander Albon,Toro Rosso,9,12,0,0,0,52,26,10
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,STR,Lance Stroll,Racing Point,18,13,0,0,0,52,26,13
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,RUS,George Russell,Williams,19,14,0,0,0,52,26,15
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,KUB,Robert Kubica,Williams,20,15,0,0,0,52,26,16
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,VET,Sebastian Vettel,Ferrari,6,16,0,0,0,52,26,3
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,PER,Sergio Perez,Racing Point,15,17,0,0,0,52,26,17
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,GIO,Antonio Giovinazzi,Alfa Romeo Racing,11,18,0,0,0,52,26,
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,GRO,Romain Grosjean,Haas F1 Team,14,19,0,0,0,52,26,
+2019-10,2019,10,British Grand Prix,Silverstone,2019-07-14,MAG,Kevin Magnussen,Haas F1 Team,16,20,0,0,0,52,26,

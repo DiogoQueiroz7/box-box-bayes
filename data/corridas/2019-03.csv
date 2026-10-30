@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,HAM,Lewis Hamilton,Mercedes,2,1,1,0,0,56,28,1
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,BOT,Valtteri Bottas,Mercedes,1,2,0,0,0,56,28,2
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,VET,Sebastian Vettel,Ferrari,3,3,0,0,0,56,28,3
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,VER,Max Verstappen,Red Bull Racing,5,4,0,0,0,56,28,4
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,LEC,Charles Leclerc,Ferrari,4,5,0,0,0,56,28,5
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,GAS,Pierre Gasly,Red Bull Racing,6,6,0,0,0,56,28,6
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,RIC,Daniel Ricciardo,Renault,7,7,0,0,0,56,28,7
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,PER,Sergio Perez,Racing Point,12,8,0,0,0,56,28,8
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,RAI,Kimi Räikkönen,Alfa Romeo Racing,13,9,0,0,0,56,28,9
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,ALB,Alexander Albon,Toro Rosso,20,10,0,0,0,56,28,12
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,GRO,Romain Grosjean,Haas F1 Team,10,11,0,0,0,56,28,10
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,STR,Lance Stroll,Racing Point,16,12,0,0,0,56,28,13
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,MAG,Kevin Magnussen,Haas F1 Team,9,13,0,0,0,56,28,11
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,SAI,Carlos Sainz,McLaren,14,14,0,0,0,56,28,15
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,GIO,Antonio Giovinazzi,Alfa Romeo Racing,19,15,0,0,0,56,28,14
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,RUS,George Russell,Williams,17,16,0,0,0,56,28,17
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,KUB,Robert Kubica,Williams,18,17,0,0,0,56,28,19
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,NOR,Lando Norris,McLaren,15,18,0,0,0,56,28,18
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,KVY,Daniil Kvyat,Toro Rosso,11,19,0,0,0,56,28,16
+2019-03,2019,3,Chinese Grand Prix,Shanghai,2019-04-14,HUL,Nico Hulkenberg,Renault,8,20,0,0,0,56,28,

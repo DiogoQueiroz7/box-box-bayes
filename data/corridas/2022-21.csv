@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,RUS,George Russell,Mercedes,1,1,1,0,0,71,36,1.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,HAM,Lewis Hamilton,Mercedes,2,2,0,0,0,71,36,3.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,SAI,Carlos Sainz,Ferrari,7,3,0,0,0,71,36,4.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,LEC,Charles Leclerc,Ferrari,5,4,0,0,0,71,36,9.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,ALO,Fernando Alonso,Alpine,17,5,0,0,0,71,36,15.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,VER,Max Verstappen,Red Bull Racing,3,6,0,0,0,71,36,12.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,PER,Sergio Perez,Red Bull Racing,4,7,0,0,0,71,36,2.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,OCO,Esteban Ocon,Alpine,16,8,0,0,0,71,36,7.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,BOT,Valtteri Bottas,Alfa Romeo,14,9,0,0,0,71,36,5.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,STR,Lance Stroll,Aston Martin,15,10,0,0,0,71,36,13.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,VET,Sebastian Vettel,Aston Martin,9,11,0,0,0,71,36,6.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,GAS,Pierre Gasly,AlphaTauri,10,12,0,0,0,71,36,17.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,ZHO,Guanyu Zhou,Alfa Romeo,13,13,0,0,0,71,36,10.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,MSC,Mick Schumacher,Haas F1 Team,12,14,0,0,0,71,36,11.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,ALB,Alexander Albon,Williams,19,15,0,0,0,71,36,16.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,LAT,Nicholas Latifi,Williams,18,16,0,0,0,71,36,18.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,TSU,Yuki Tsunoda,AlphaTauri,20,17,0,0,0,71,36,14.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,NOR,Lando Norris,McLaren,6,18,0,0,0,71,36,8.0
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,MAG,Kevin Magnussen,Haas F1 Team,8,19,0,0,0,71,36,
+2022-21,2022,21,São Paulo Grand Prix,São Paulo,2022-11-13,RIC,Daniel Ricciardo,McLaren,11,20,0,0,0,71,36,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,LEC,Charles Leclerc,Ferrari,1,1,1,0,0,78,39,1
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,PIA,Oscar Piastri,McLaren,2,2,0,0,0,78,39,2
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,SAI,Carlos Sainz,Ferrari,3,3,0,0,0,78,39,3
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,NOR,Lando Norris,McLaren,4,4,0,0,0,78,39,4
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,RUS,George Russell,Mercedes,5,5,0,0,0,78,39,5
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,VER,Max Verstappen,Red Bull Racing,6,6,0,0,0,78,39,6
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,HAM,Lewis Hamilton,Mercedes,7,7,0,0,0,78,39,7
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,TSU,Yuki Tsunoda,RB,8,8,0,0,0,78,39,8
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,ALB,Alexander Albon,Williams,9,9,0,0,0,78,39,9
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,GAS,Pierre Gasly,Alpine,10,10,0,0,0,78,39,10
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,ALO,Fernando Alonso,Aston Martin,14,11,0,0,0,78,39,12
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,RIC,Daniel Ricciardo,RB,12,12,0,0,0,78,39,13
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,BOT,Valtteri Bottas,Kick Sauber,17,13,0,0,0,78,39,16
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,STR,Lance Stroll,Aston Martin,13,14,0,0,0,78,39,11
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,SAR,Logan Sargeant,Williams,15,15,0,0,0,78,39,14
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,ZHO,Guanyu Zhou,Kick Sauber,18,16,0,0,0,78,39,15
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,OCO,Esteban Ocon,Alpine,11,17,0,0,0,78,39,
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,PER,Sergio Perez,Red Bull Racing,16,18,0,0,0,78,39,
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,HUL,Nico Hulkenberg,Haas F1 Team,19,19,0,0,0,78,39,
+2024-08,2024,8,Monaco Grand Prix,Monaco,2024-05-26,MAG,Kevin Magnussen,Haas F1 Team,20,20,0,0,0,78,39,

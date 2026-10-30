@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,VER,Max Verstappen,Red Bull Racing,2,1,1,0,0,56,28,1
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,HAM,Lewis Hamilton,Mercedes,3,2,0,0,0,56,28,2
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,LEC,Charles Leclerc,Ferrari,12,3,0,0,0,56,28,4
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,PER,Sergio Perez,Red Bull Racing,9,4,0,0,0,56,28,3
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,RUS,George Russell,Mercedes,4,5,0,0,0,56,28,5
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,NOR,Lando Norris,McLaren,6,6,0,0,0,56,28,9
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,ALO,Fernando Alonso,Alpine,14,7,0,0,0,56,28,15
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,VET,Sebastian Vettel,Aston Martin,10,8,0,0,0,56,28,6
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,MAG,Kevin Magnussen,Haas F1 Team,13,9,0,0,0,56,28,11
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,TSU,Yuki Tsunoda,AlphaTauri,19,10,0,0,0,56,28,8
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,OCO,Esteban Ocon,Alpine,20,11,0,0,0,56,28,12
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,ZHO,Guanyu Zhou,Alfa Romeo,18,12,0,0,0,56,28,17
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,ALB,Alexander Albon,Williams,8,13,0,0,0,56,28,14
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,GAS,Pierre Gasly,AlphaTauri,11,14,0,0,0,56,28,7
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,MSC,Mick Schumacher,Haas F1 Team,16,15,0,0,0,56,28,10
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,RIC,Daniel Ricciardo,McLaren,15,16,0,0,0,56,28,13
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,LAT,Nicholas Latifi,Williams,17,17,0,0,0,56,28,16
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,STR,Lance Stroll,Aston Martin,5,18,0,0,0,56,28,
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,BOT,Valtteri Bottas,Alfa Romeo,7,19,0,0,0,56,28,
+2022-19,2022,19,United States Grand Prix,Austin,2022-10-23,SAI,Carlos Sainz,Ferrari,1,20,0,0,0,56,28,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,VET,Sebastian Vettel,Ferrari,1,1,1,0,0,57,29,1
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,BOT,Valtteri Bottas,Mercedes,3,2,0,0,0,57,29,2
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,HAM,Lewis Hamilton,Mercedes,9,3,0,0,0,57,29,4
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,GAS,Pierre Gasly,Toro Rosso,5,4,0,0,0,57,29,5
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,MAG,Kevin Magnussen,Haas F1 Team,6,5,0,0,0,57,29,10
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,HUL,Nico Hulkenberg,Renault,7,6,0,0,0,57,29,6
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,ALO,Fernando Alonso,McLaren,13,7,0,0,0,57,29,7
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,VAN,Stoffel Vandoorne,McLaren,14,8,0,0,0,57,29,16
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,ERI,Marcus Ericsson,Sauber,17,9,0,0,0,57,29,12
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,OCO,Esteban Ocon,Force India,8,10,0,0,0,57,29,8
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,SAI,Carlos Sainz,Renault,10,11,0,0,0,57,29,17
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,LEC,Charles Leclerc,Sauber,19,12,0,0,0,57,29,15
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,GRO,Romain Grosjean,Haas F1 Team,16,13,0,0,0,57,29,9
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,STR,Lance Stroll,Williams,20,14,0,0,0,57,29,11
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,SIR,Sergey Sirotkin,Williams,18,15,0,0,0,57,29,18
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,PER,Sergio Perez,Force India,12,16,0,0,0,57,29,13
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,HAR,Brendon Hartley,Toro Rosso,11,17,0,0,0,57,29,14
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,RAI,Kimi Räikkönen,Ferrari,2,18,0,0,0,57,29,3
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,VER,Max Verstappen,Red Bull Racing,15,19,0,0,0,57,29,
+2018-02,2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,RIC,Daniel Ricciardo,Red Bull Racing,4,20,0,0,0,57,29,

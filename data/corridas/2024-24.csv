@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,NOR,Lando Norris,McLaren,1,1,1,0,0,58,29,1
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,SAI,Carlos Sainz,Ferrari,3,2,0,0,0,58,29,2
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,LEC,Charles Leclerc,Ferrari,19,3,0,0,0,58,29,5
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,HAM,Lewis Hamilton,Mercedes,16,4,0,0,0,58,29,4
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,RUS,George Russell,Mercedes,6,5,0,0,0,58,29,6
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,VER,Max Verstappen,Red Bull Racing,4,6,0,0,0,58,29,3
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,GAS,Pierre Gasly,Alpine,5,7,0,0,0,58,29,7
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,HUL,Nico Hulkenberg,Haas F1 Team,7,8,0,0,0,58,29,8
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,ALO,Fernando Alonso,Aston Martin,8,9,0,0,0,58,29,9
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,PIA,Oscar Piastri,McLaren,2,10,0,0,0,58,29,10
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,ALB,Alexander Albon,Williams,18,11,0,0,0,58,29,12
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,TSU,Yuki Tsunoda,RB,11,12,0,0,0,58,29,15
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,ZHO,Guanyu Zhou,Kick Sauber,15,13,0,0,0,58,29,14
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,STR,Lance Stroll,Aston Martin,13,14,0,0,0,58,29,11
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,DOO,Jack Doohan,Alpine,17,15,0,0,0,58,29,16
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,MAG,Kevin Magnussen,Haas F1 Team,14,16,0,0,0,58,29,13
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,LAW,Liam Lawson,RB,12,17,0,0,0,58,29,18
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,BOT,Valtteri Bottas,Kick Sauber,9,18,0,0,0,58,29,17
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,COL,Franco Colapinto,Williams,20,19,0,0,0,58,29,
+2024-24,2024,24,Abu Dhabi Grand Prix,Yas Island,2024-12-08,PER,Sergio Perez,Red Bull Racing,10,20,0,0,0,58,29,

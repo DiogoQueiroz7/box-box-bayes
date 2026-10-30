@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,BOT,Valtteri Bottas,Mercedes,3,1,1,0,0,53,27,1
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,VER,Max Verstappen,Red Bull Racing,2,2,0,0,0,53,27,3
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,HAM,Lewis Hamilton,Mercedes,1,3,0,0,0,53,27,5
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,PER,Sergio Perez,Racing Point,4,4,0,0,0,53,27,6
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,RIC,Daniel Ricciardo,Renault,5,5,0,0,0,53,27,7
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,LEC,Charles Leclerc,Ferrari,10,6,0,0,0,53,27,2
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,OCO,Esteban Ocon,Renault,7,7,0,0,0,53,27,9
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,KVY,Daniil Kvyat,AlphaTauri,11,8,0,0,0,53,27,4
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,GAS,Pierre Gasly,AlphaTauri,9,9,0,0,0,53,27,11
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,ALB,Alexander Albon,Red Bull Racing,15,10,0,0,0,53,27,13
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,GIO,Antonio Giovinazzi,Alfa Romeo Racing,17,11,0,0,0,53,27,16
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,MAG,Kevin Magnussen,Haas F1 Team,18,12,0,0,0,53,27,14
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,VET,Sebastian Vettel,Ferrari,14,13,0,0,0,53,27,8
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,RAI,Kimi Räikkönen,Alfa Romeo Racing,19,14,0,0,0,53,27,10
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,NOR,Lando Norris,McLaren,8,15,0,0,0,53,27,12
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,LAT,Nicholas Latifi,Williams,20,16,0,0,0,53,27,17
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,GRO,Romain Grosjean,Haas F1 Team,16,17,0,0,0,53,27,15
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,RUS,George Russell,Williams,13,18,0,0,0,53,27,18
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,SAI,Carlos Sainz,McLaren,6,19,0,0,0,53,27,
+2020-10,2020,10,Russian Grand Prix,Sochi,2020-09-27,STR,Lance Stroll,Racing Point,12,20,0,0,0,53,27,

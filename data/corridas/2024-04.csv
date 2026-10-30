@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,53,27,1
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,PER,Sergio Perez,Red Bull Racing,2,2,0,0,0,53,27,2
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,SAI,Carlos Sainz,Ferrari,4,3,0,0,0,53,27,3
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,LEC,Charles Leclerc,Ferrari,8,4,0,0,0,53,27,6
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,NOR,Lando Norris,McLaren,3,5,0,0,0,53,27,8
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,ALO,Fernando Alonso,Aston Martin,5,6,0,0,0,53,27,4
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,RUS,George Russell,Mercedes,9,7,0,0,0,53,27,7
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,PIA,Oscar Piastri,McLaren,6,8,0,0,0,53,27,5
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,HAM,Lewis Hamilton,Mercedes,7,9,0,0,0,53,27,9
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,TSU,Yuki Tsunoda,RB,10,10,0,0,0,53,27,11
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,HUL,Nico Hulkenberg,Haas F1 Team,12,11,0,0,0,53,27,10
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,STR,Lance Stroll,Aston Martin,16,12,0,0,0,53,27,12
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,MAG,Kevin Magnussen,Haas F1 Team,18,13,0,0,0,53,27,13
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,BOT,Valtteri Bottas,Kick Sauber,13,14,0,0,0,53,27,14
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,OCO,Esteban Ocon,Alpine,15,15,0,0,0,53,27,16
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,GAS,Pierre Gasly,Alpine,17,16,0,0,0,53,27,17
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,SAR,Logan Sargeant,Williams,19,17,0,0,0,53,27,15
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,ZHO,Guanyu Zhou,Kick Sauber,20,18,0,0,0,53,27,
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,RIC,Daniel Ricciardo,RB,11,19,0,0,0,53,27,
+2024-04,2024,4,Japanese Grand Prix,Suzuka,2024-04-07,ALB,Alexander Albon,Williams,14,20,0,0,0,53,27,

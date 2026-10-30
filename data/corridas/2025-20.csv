@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,NOR,Lando Norris,McLaren,1,1,1,0,0,71,36,1
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,LEC,Charles Leclerc,Ferrari,2,2,0,0,0,71,36,3
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,VER,Max Verstappen,Red Bull Racing,5,3,0,0,0,71,36,2
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,BEA,Oliver Bearman,Haas F1 Team,9,4,0,0,0,71,36,4
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,PIA,Oscar Piastri,McLaren,7,5,0,0,0,71,36,7
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,ANT,Kimi Antonelli,Mercedes,6,6,0,0,0,71,36,5
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,RUS,George Russell,Mercedes,4,7,0,0,0,71,36,6
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,HAM,Lewis Hamilton,Ferrari,3,8,0,0,0,71,36,8
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,OCO,Esteban Ocon,Haas F1 Team,11,9,0,0,0,71,36,12
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,BOR,Gabriel Bortoleto,Kick Sauber,16,10,0,0,0,71,36,11
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,TSU,Yuki Tsunoda,Red Bull Racing,10,11,0,0,0,71,36,9
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,ALB,Alexander Albon,Williams,17,12,0,0,0,71,36,13
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,HAD,Isack Hadjar,Racing Bulls,8,13,0,0,0,71,36,15
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,STR,Lance Stroll,Aston Martin,19,14,0,0,0,71,36,14
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,GAS,Pierre Gasly,Alpine,18,15,0,0,0,71,36,17
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,COL,Franco Colapinto,Alpine,20,16,0,0,0,71,36,16
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,SAI,Carlos Sainz,Williams,12,17,0,0,0,71,36,10
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,ALO,Fernando Alonso,Aston Martin,14,18,0,0,0,71,36,
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,HUL,Nico Hulkenberg,Kick Sauber,13,19,0,0,0,71,36,
+2025-20,2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,LAW,Liam Lawson,Racing Bulls,15,20,0,0,0,71,36,

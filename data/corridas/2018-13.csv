@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,VET,Sebastian Vettel,Ferrari,2,1,1,0,0,44,22,1
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,HAM,Lewis Hamilton,Mercedes,1,2,0,0,0,44,22,3
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,VER,Max Verstappen,Red Bull Racing,7,3,0,0,0,44,22,2
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,BOT,Valtteri Bottas,Mercedes,19,4,0,0,0,44,22,7
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,PER,Sergio Perez,Racing Point,4,5,0,0,0,44,22,4
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,OCO,Esteban Ocon,Racing Point,3,6,0,0,0,44,22,5
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,GRO,Romain Grosjean,Haas F1 Team,5,7,0,0,0,44,22,6
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,MAG,Kevin Magnussen,Haas F1 Team,9,8,0,0,0,44,22,8
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,GAS,Pierre Gasly,Toro Rosso,10,9,0,0,0,44,22,9
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,ERI,Marcus Ericsson,Sauber,13,10,0,0,0,44,22,10
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,SAI,Carlos Sainz,Renault,14,11,0,0,0,44,22,14
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,SIR,Sergey Sirotkin,Williams,16,12,0,0,0,44,22,11
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,STR,Lance Stroll,Williams,17,13,0,0,0,44,22,12
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,HAR,Brendon Hartley,Toro Rosso,11,14,0,0,0,44,22,13
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,VAN,Stoffel Vandoorne,McLaren,18,15,0,0,0,44,22,15
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,RIC,Daniel Ricciardo,Red Bull Racing,8,16,0,0,0,44,22,16
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,RAI,Kimi Räikkönen,Ferrari,6,17,0,0,0,44,22,
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,LEC,Charles Leclerc,Sauber,12,18,0,0,0,44,22,
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,ALO,Fernando Alonso,McLaren,15,19,0,0,0,44,22,
+2018-13,2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,HUL,Nico Hulkenberg,Renault,20,20,0,0,0,44,22,

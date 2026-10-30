@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,NOR,Lando Norris,McLaren,1,1,1,0,0,78,39,1
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,LEC,Charles Leclerc,Ferrari,2,2,0,0,0,78,39,2
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,PIA,Oscar Piastri,McLaren,3,3,0,0,0,78,39,3
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,VER,Max Verstappen,Red Bull Racing,4,4,0,0,0,78,39,4
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,HAM,Lewis Hamilton,Ferrari,7,5,0,0,0,78,39,5
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,HAD,Isack Hadjar,Racing Bulls,5,6,0,0,0,78,39,6
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,OCO,Esteban Ocon,Haas F1 Team,8,7,0,0,0,78,39,7
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,LAW,Liam Lawson,Racing Bulls,9,8,0,0,0,78,39,8
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,ALB,Alexander Albon,Williams,10,9,0,0,0,78,39,9
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,SAI,Carlos Sainz,Williams,11,10,0,0,0,78,39,10
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,RUS,George Russell,Mercedes,14,11,0,0,0,78,39,11
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,BEA,Oliver Bearman,Haas F1 Team,20,12,0,0,0,78,39,16
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,COL,Franco Colapinto,Alpine,18,13,0,0,0,78,39,17
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,BOR,Gabriel Bortoleto,Kick Sauber,16,14,0,0,0,78,39,18
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,STR,Lance Stroll,Aston Martin,19,15,0,0,0,78,39,15
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,HUL,Nico Hulkenberg,Kick Sauber,13,16,0,0,0,78,39,14
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,TSU,Yuki Tsunoda,Red Bull Racing,12,17,0,0,0,78,39,13
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,ANT,Kimi Antonelli,Mercedes,15,18,0,0,0,78,39,12
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,ALO,Fernando Alonso,Aston Martin,6,19,0,0,0,78,39,
+2025-08,2025,8,Monaco Grand Prix,Monaco,2025-05-25,GAS,Pierre Gasly,Alpine,17,20,0,0,0,78,39,

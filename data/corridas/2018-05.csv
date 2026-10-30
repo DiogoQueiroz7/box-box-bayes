@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,66,33,2
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,BOT,Valtteri Bottas,Mercedes,2,2,0,0,0,66,33,5
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,VER,Max Verstappen,Red Bull Racing,5,3,0,0,0,66,33,1
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,VET,Sebastian Vettel,Ferrari,3,4,0,0,0,66,33,4
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,RIC,Daniel Ricciardo,Red Bull Racing,6,5,0,0,0,66,33,3
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,MAG,Kevin Magnussen,Haas F1 Team,7,6,0,0,0,66,33,6
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,SAI,Carlos Sainz,Renault,9,7,0,0,0,66,33,9
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,ALO,Fernando Alonso,McLaren,8,8,0,0,0,66,33,11
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,PER,Sergio Perez,Force India,15,9,0,0,0,66,33,14
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,LEC,Charles Leclerc,Sauber,14,10,0,0,0,66,33,10
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,STR,Lance Stroll,Williams,18,11,0,0,0,66,33,13
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,HAR,Brendon Hartley,Toro Rosso,20,12,0,0,0,66,33,12
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,ERI,Marcus Ericsson,Sauber,17,13,0,0,0,66,33,8
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,SIR,Sergey Sirotkin,Williams,19,14,0,0,0,66,33,15
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,VAN,Stoffel Vandoorne,McLaren,11,15,0,0,0,66,33,7
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,OCO,Esteban Ocon,Force India,13,16,0,0,0,66,33,16
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,RAI,Kimi Räikkönen,Ferrari,4,17,0,0,0,66,33,
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,GRO,Romain Grosjean,Haas F1 Team,10,18,0,0,0,66,33,
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,GAS,Pierre Gasly,Toro Rosso,12,19,0,0,0,66,33,
+2018-05,2018,5,Spanish Grand Prix,Barcelona,2018-05-13,HUL,Nico Hulkenberg,Renault,16,20,0,0,0,66,33,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,VER,Max Verstappen,Red Bull Racing,2,1,1,0,0,57,29,1
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,LEC,Charles Leclerc,Ferrari,5,2,0,0,0,57,29,4
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,PIA,Oscar Piastri,McLaren,4,3,0,0,0,57,29,3
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,RUS,George Russell,Mercedes,1,4,0,0,0,57,29,10
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,GAS,Pierre Gasly,Alpine,11,5,0,0,0,57,29,8
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,SAI,Carlos Sainz,Ferrari,7,6,0,0,0,57,29,5
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,ALO,Fernando Alonso,Aston Martin,8,7,0,0,0,57,29,9
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,ZHO,Guanyu Zhou,Kick Sauber,12,8,0,0,0,57,29,11
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,MAG,Kevin Magnussen,Haas F1 Team,10,9,0,0,0,57,29,16
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,NOR,Lando Norris,McLaren,3,10,0,0,0,57,29,2
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,BOT,Valtteri Bottas,Kick Sauber,13,11,0,0,0,57,29,17
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,HAM,Lewis Hamilton,Mercedes,6,12,0,0,0,57,29,7
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,TSU,Yuki Tsunoda,RB,14,13,0,0,0,57,29,12
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,LAW,Liam Lawson,RB,17,14,0,0,0,57,29,15
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,ALB,Alexander Albon,Williams,16,15,0,0,0,57,29,13
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,HUL,Nico Hulkenberg,Haas F1 Team,18,16,0,0,0,57,29,14
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,PER,Sergio Perez,Red Bull Racing,9,17,0,0,0,57,29,6
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,STR,Lance Stroll,Aston Martin,15,18,0,0,0,57,29,
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,COL,Franco Colapinto,Williams,19,19,0,0,0,57,29,
+2024-23,2024,23,Qatar Grand Prix,Lusail,2024-12-01,OCO,Esteban Ocon,Alpine,20,20,0,0,0,57,29,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,VER,Max Verstappen,Red Bull Racing,3,1,1,0,0,71,36,2.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,HAM,Lewis Hamilton,Mercedes,2,2,0,0,0,71,36,3.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,PER,Sergio Perez,Red Bull Racing,4,3,0,0,0,71,36,1.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,GAS,Pierre Gasly,AlphaTauri,5,4,0,0,0,71,36,5.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,LEC,Charles Leclerc,Ferrari,8,5,0,0,0,71,36,6.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,SAI,Carlos Sainz,Ferrari,6,6,0,0,0,71,36,4.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,VET,Sebastian Vettel,Aston Martin,9,7,0,0,0,71,36,9.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,RAI,Kimi Räikkönen,Alfa Romeo Racing,10,8,0,0,0,71,36,10.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,ALO,Fernando Alonso,Alpine,12,9,0,0,0,71,36,7.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,NOR,Lando Norris,McLaren,18,10,0,0,0,71,36,8.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,GIO,Antonio Giovinazzi,Alfa Romeo Racing,11,11,0,0,0,71,36,13.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,RIC,Daniel Ricciardo,McLaren,7,12,0,0,0,71,36,11.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,OCO,Esteban Ocon,Alpine,19,13,0,0,0,71,36,15.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,STR,Lance Stroll,Aston Martin,20,14,0,0,0,71,36,17.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,BOT,Valtteri Bottas,Mercedes,1,15,0,0,0,71,36,12.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,RUS,George Russell,Williams,16,16,0,0,0,71,36,14.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,LAT,Nicholas Latifi,Williams,13,17,0,0,0,71,36,16.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,MAZ,Nikita Mazepin,Haas F1 Team,15,18,0,0,0,71,36,18.0
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,TSU,Yuki Tsunoda,AlphaTauri,17,19,0,0,0,71,36,
+2021-18,2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,MSC,Mick Schumacher,Haas F1 Team,14,20,0,0,0,71,36,

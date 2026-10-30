@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,BOT,Valtteri Bottas,Mercedes,1,1,1,0,0,56,28,1
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,HAM,Lewis Hamilton,Mercedes,5,2,0,0,0,56,28,3
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,VER,Max Verstappen,Red Bull Racing,3,3,0,0,0,56,28,2
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,LEC,Charles Leclerc,Ferrari,4,4,0,0,0,56,28,4
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,ALB,Alexander Albon,Red Bull Racing,6,5,0,0,0,56,28,8
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,RIC,Daniel Ricciardo,Renault,9,6,0,0,0,56,28,5
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,NOR,Lando Norris,McLaren,8,7,0,0,0,56,28,6
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,SAI,Carlos Sainz,McLaren,7,8,0,0,0,56,28,7
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,HUL,Nico Hulkenberg,Renault,11,9,0,0,0,56,28,15
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,PER,Sergio Perez,Racing Point,20,10,0,0,0,56,28,13
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,RAI,Kimi Räikkönen,Alfa Romeo Racing,17,11,0,0,0,56,28,10
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,KVY,Daniil Kvyat,Toro Rosso,13,12,0,0,0,56,28,12
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,STR,Lance Stroll,Racing Point,14,13,0,0,0,56,28,11
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,GIO,Antonio Giovinazzi,Alfa Romeo Racing,16,14,0,0,0,56,28,16
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,GRO,Romain Grosjean,Haas F1 Team,15,15,0,0,0,56,28,17
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,GAS,Pierre Gasly,Toro Rosso,10,16,0,0,0,56,28,9
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,RUS,George Russell,Williams,18,17,0,0,0,56,28,18
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,MAG,Kevin Magnussen,Haas F1 Team,12,18,0,0,0,56,28,14
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,KUB,Robert Kubica,Williams,19,19,0,0,0,56,28,19
+2019-19,2019,19,United States Grand Prix,Austin,2019-11-03,VET,Sebastian Vettel,Ferrari,2,20,0,0,0,56,28,

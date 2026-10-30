@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,NOR,Lando Norris,McLaren,1,1,1,0,0,71,36,2
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,ANT,Kimi Antonelli,Mercedes,2,2,0,0,0,71,36,3
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,VER,Max Verstappen,Red Bull Racing,19,3,0,0,0,71,36,9
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,RUS,George Russell,Mercedes,6,4,0,0,0,71,36,5
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,PIA,Oscar Piastri,McLaren,4,5,0,0,0,71,36,1
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,BEA,Oliver Bearman,Haas F1 Team,8,6,0,0,0,71,36,4
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,LAW,Liam Lawson,Racing Bulls,7,7,0,0,0,71,36,10
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,HAD,Isack Hadjar,Racing Bulls,5,8,0,0,0,71,36,7
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,HUL,Nico Hulkenberg,Kick Sauber,10,9,0,0,0,71,36,6
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,GAS,Pierre Gasly,Alpine,9,10,0,0,0,71,36,8
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,ALB,Alexander Albon,Williams,12,11,0,0,0,71,36,16
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,OCO,Esteban Ocon,Haas F1 Team,20,12,0,0,0,71,36,12
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,SAI,Carlos Sainz,Williams,15,13,0,0,0,71,36,11
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,ALO,Fernando Alonso,Aston Martin,11,14,0,0,0,71,36,13
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,COL,Franco Colapinto,Alpine,16,15,0,0,0,71,36,14
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,STR,Lance Stroll,Aston Martin,14,16,0,0,0,71,36,15
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,TSU,Yuki Tsunoda,Red Bull Racing,17,17,0,0,0,71,36,17
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,HAM,Lewis Hamilton,Ferrari,13,18,0,0,0,71,36,18
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,LEC,Charles Leclerc,Ferrari,3,19,0,0,0,71,36,
+2025-21,2025,21,São Paulo Grand Prix,São Paulo,2025-11-09,BOR,Gabriel Bortoleto,Kick Sauber,18,20,0,0,0,71,36,

@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,LEC,Charles Leclerc,Ferrari,1,1,1,0,0,44,22,4
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,HAM,Lewis Hamilton,Mercedes,3,2,0,0,0,44,22,1
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,BOT,Valtteri Bottas,Mercedes,4,3,0,0,0,44,22,2
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,VET,Sebastian Vettel,Ferrari,2,4,0,0,0,44,22,3
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,ALB,Alexander Albon,Red Bull Racing,17,5,0,0,0,44,22,8
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,PER,Sergio Perez,Racing Point,7,6,0,0,0,44,22,11
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,KVY,Daniil Kvyat,Toro Rosso,19,7,0,0,0,44,22,6
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,HUL,Nico Hulkenberg,Renault,12,8,0,0,0,44,22,13
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,GAS,Pierre Gasly,Toro Rosso,13,9,0,0,0,44,22,12
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,STR,Lance Stroll,Racing Point,16,10,0,0,0,44,22,14
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,NOR,Lando Norris,McLaren,11,11,0,0,0,44,22,5
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,MAG,Kevin Magnussen,Haas F1 Team,8,12,0,0,0,44,22,15
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,GRO,Romain Grosjean,Haas F1 Team,9,13,0,0,0,44,22,10
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,RIC,Daniel Ricciardo,Renault,10,14,0,0,0,44,22,9
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,RUS,George Russell,Williams,14,15,0,0,0,44,22,17
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,RAI,Kimi Räikkönen,Alfa Romeo Racing,6,16,0,0,0,44,22,16
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,KUB,Robert Kubica,Williams,20,17,0,0,0,44,22,18
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,GIO,Antonio Giovinazzi,Alfa Romeo Racing,18,18,0,0,0,44,22,7
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,SAI,Carlos Sainz,McLaren,15,19,0,0,0,44,22,
+2019-13,2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,VER,Max Verstappen,Red Bull Racing,5,20,0,0,0,44,22,

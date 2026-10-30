@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,VER,Max Verstappen,Red Bull Racing,2,1,1,0,0,63,32,1
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,NOR,Lando Norris,McLaren,4,2,0,0,0,63,32,2
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,PIA,Oscar Piastri,McLaren,1,3,0,0,0,63,32,4
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,HAM,Lewis Hamilton,Ferrari,12,4,0,0,0,63,32,7
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,ALB,Alexander Albon,Williams,7,5,0,0,0,63,32,3
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,LEC,Charles Leclerc,Ferrari,11,6,0,0,0,63,32,9
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,RUS,George Russell,Mercedes,3,7,0,0,0,63,32,12
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,SAI,Carlos Sainz,Williams,6,8,0,0,0,63,32,13
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,HAD,Isack Hadjar,Racing Bulls,9,9,0,0,0,63,32,5
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,TSU,Yuki Tsunoda,Red Bull Racing,20,10,0,0,0,63,32,14
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,ALO,Fernando Alonso,Aston Martin,5,11,0,0,0,63,32,8
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,HUL,Nico Hulkenberg,Kick Sauber,17,12,0,0,0,63,32,11
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,GAS,Pierre Gasly,Alpine,10,13,0,0,0,63,32,16
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,LAW,Liam Lawson,Racing Bulls,15,14,0,0,0,63,32,17
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,STR,Lance Stroll,Aston Martin,8,15,0,0,0,63,32,10
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,COL,Franco Colapinto,Alpine,16,16,0,0,0,63,32,15
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,BEA,Oliver Bearman,Haas F1 Team,19,17,0,0,0,63,32,19
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,BOR,Gabriel Bortoleto,Kick Sauber,14,18,0,0,0,63,32,18
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,ANT,Kimi Antonelli,Mercedes,13,19,0,0,0,63,32,6
+2025-07,2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,OCO,Esteban Ocon,Haas F1 Team,18,20,0,0,0,63,32,

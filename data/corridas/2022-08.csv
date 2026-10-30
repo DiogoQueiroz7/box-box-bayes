@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,VER,Max Verstappen,Red Bull Racing,3,1,1,0,0,51,26,1
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,PER,Sergio Perez,Red Bull Racing,2,2,0,0,0,51,26,2
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,RUS,George Russell,Mercedes,5,3,0,0,0,51,26,3
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,HAM,Lewis Hamilton,Mercedes,7,4,0,0,0,51,26,5
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,GAS,Pierre Gasly,AlphaTauri,6,5,0,0,0,51,26,4
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,VET,Sebastian Vettel,Aston Martin,9,6,0,0,0,51,26,8
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,ALO,Fernando Alonso,Alpine,10,7,0,0,0,51,26,10
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,RIC,Daniel Ricciardo,McLaren,12,8,0,0,0,51,26,6
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,NOR,Lando Norris,McLaren,11,9,0,0,0,51,26,15
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,OCO,Esteban Ocon,Alpine,13,10,0,0,0,51,26,9
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,BOT,Valtteri Bottas,Alfa Romeo,15,11,0,0,0,51,26,12
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,ALB,Alexander Albon,Williams,17,12,0,0,0,51,26,14
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,TSU,Yuki Tsunoda,AlphaTauri,8,13,0,0,0,51,26,7
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,MSC,Mick Schumacher,Haas F1 Team,20,14,0,0,0,51,26,16
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,LAT,Nicholas Latifi,Williams,18,15,0,0,0,51,26,17
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,STR,Lance Stroll,Aston Martin,19,16,0,0,0,51,26,13
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,MAG,Kevin Magnussen,Haas F1 Team,16,17,0,0,0,51,26,11
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,ZHO,Guanyu Zhou,Alfa Romeo,14,18,0,0,0,51,26,
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,LEC,Charles Leclerc,Ferrari,1,19,0,0,0,51,26,
+2022-08,2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,SAI,Carlos Sainz,Ferrari,4,20,0,0,0,51,26,

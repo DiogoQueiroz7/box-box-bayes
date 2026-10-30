@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,78,39,1
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,VET,Sebastian Vettel,Ferrari,4,2,0,0,0,78,39,3
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,BOT,Valtteri Bottas,Mercedes,2,3,0,0,0,78,39,4
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,VER,Max Verstappen,Red Bull Racing,3,4,0,0,0,78,39,2
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,GAS,Pierre Gasly,Red Bull Racing,8,5,0,0,0,78,39,7
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,SAI,Carlos Sainz,McLaren,9,6,0,0,0,78,39,8
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,KVY,Daniil Kvyat,Toro Rosso,7,7,0,0,0,78,39,9
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,ALB,Alexander Albon,Toro Rosso,10,8,0,0,0,78,39,5
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,RIC,Daniel Ricciardo,Renault,6,9,0,0,0,78,39,12
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,GRO,Romain Grosjean,Haas F1 Team,13,10,0,0,0,78,39,6
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,NOR,Lando Norris,McLaren,12,11,0,0,0,78,39,10
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,PER,Sergio Perez,Racing Point,16,12,0,0,0,78,39,14
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,HUL,Nico Hulkenberg,Renault,11,13,0,0,0,78,39,15
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,MAG,Kevin Magnussen,Haas F1 Team,5,14,0,0,0,78,39,13
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,RUS,George Russell,Williams,19,15,0,0,0,78,39,16
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,STR,Lance Stroll,Racing Point,17,16,0,0,0,78,39,18
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,RAI,Kimi Räikkönen,Alfa Romeo Racing,14,17,0,0,0,78,39,11
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,KUB,Robert Kubica,Williams,20,18,0,0,0,78,39,19
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,GIO,Antonio Giovinazzi,Alfa Romeo Racing,18,19,0,0,0,78,39,17
+2019-06,2019,6,Monaco Grand Prix,Monte Carlo,2019-05-26,LEC,Charles Leclerc,Ferrari,15,20,0,0,0,78,39,

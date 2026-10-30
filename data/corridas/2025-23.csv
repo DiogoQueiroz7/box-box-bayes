@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,VER,Max Verstappen,Red Bull Racing,3,1,1,0,0,57,29,1
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,PIA,Oscar Piastri,McLaren,1,2,0,0,0,57,29,4
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,SAI,Carlos Sainz,Williams,7,3,0,0,0,57,29,2
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,NOR,Lando Norris,McLaren,2,4,0,0,0,57,29,5
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,ANT,Kimi Antonelli,Mercedes,5,5,0,0,0,57,29,3
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,RUS,George Russell,Mercedes,4,6,0,0,0,57,29,8
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,ALO,Fernando Alonso,Aston Martin,8,7,0,0,0,57,29,6
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,LEC,Charles Leclerc,Ferrari,10,8,0,0,0,57,29,9
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,LAW,Liam Lawson,Racing Bulls,12,9,0,0,0,57,29,11
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,TSU,Yuki Tsunoda,Red Bull Racing,15,10,0,0,0,57,29,12
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,ALB,Alexander Albon,Williams,14,11,0,0,0,57,29,13
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,HAM,Lewis Hamilton,Ferrari,17,12,0,0,0,57,29,14
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,BOR,Gabriel Bortoleto,Kick Sauber,19,13,0,0,0,57,29,15
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,COL,Franco Colapinto,Alpine,20,14,0,0,0,57,29,16
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,OCO,Esteban Ocon,Haas F1 Team,16,15,0,0,0,57,29,17
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,GAS,Pierre Gasly,Alpine,9,16,0,0,0,57,29,18
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,STR,Lance Stroll,Aston Martin,18,17,0,0,0,57,29,19
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,HAD,Isack Hadjar,Racing Bulls,6,18,0,0,0,57,29,7
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,BEA,Oliver Bearman,Haas F1 Team,13,19,0,0,0,57,29,10
+2025-23,2025,23,Qatar Grand Prix,Lusail,2025-11-30,HUL,Nico Hulkenberg,Kick Sauber,11,20,0,0,0,57,29,

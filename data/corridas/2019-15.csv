@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,VET,Sebastian Vettel,Ferrari,3,1,1,0,0,61,31,1
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,LEC,Charles Leclerc,Ferrari,1,2,0,0,0,61,31,4
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,VER,Max Verstappen,Red Bull Racing,4,3,0,0,0,61,31,5
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,HAM,Lewis Hamilton,Mercedes,2,4,0,0,0,61,31,7
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,BOT,Valtteri Bottas,Mercedes,5,5,0,0,0,61,31,8
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,ALB,Alexander Albon,Red Bull Racing,6,6,0,0,0,61,31,9
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,NOR,Lando Norris,McLaren,9,7,0,0,0,61,31,12
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,GAS,Pierre Gasly,Toro Rosso,11,8,0,0,0,61,31,3
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,HUL,Nico Hulkenberg,Renault,8,9,0,0,0,61,31,10
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,GIO,Antonio Giovinazzi,Alfa Romeo Racing,10,10,0,0,0,61,31,2
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,GRO,Romain Grosjean,Haas F1 Team,17,11,0,0,0,61,31,18
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,SAI,Carlos Sainz,McLaren,7,12,0,0,0,61,31,20
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,STR,Lance Stroll,Racing Point,16,13,0,0,0,61,31,11
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,RIC,Daniel Ricciardo,Renault,20,14,0,0,0,61,31,6
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,KVY,Daniil Kvyat,Toro Rosso,14,15,0,0,0,61,31,16
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,KUB,Robert Kubica,Williams,19,16,0,0,0,61,31,19
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,MAG,Kevin Magnussen,Haas F1 Team,13,17,0,0,0,61,31,13
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,RAI,Kimi Räikkönen,Alfa Romeo Racing,12,18,0,0,0,61,31,14
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,PER,Sergio Perez,Racing Point,15,19,0,0,0,61,31,15
+2019-15,2019,15,Singapore Grand Prix,Singapore,2019-09-22,RUS,George Russell,Williams,18,20,0,0,0,61,31,17

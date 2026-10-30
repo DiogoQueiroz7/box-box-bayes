@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,LEC,Charles Leclerc,Ferrari,1,1,1,0,0,53,27,2
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,BOT,Valtteri Bottas,Mercedes,3,2,0,0,0,53,27,1
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,HAM,Lewis Hamilton,Mercedes,2,3,0,0,0,53,27,3
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,RIC,Daniel Ricciardo,Renault,5,4,0,0,0,53,27,4
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,HUL,Nico Hulkenberg,Renault,6,5,0,0,0,53,27,5
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,ALB,Alexander Albon,Red Bull Racing,8,6,0,0,0,53,27,12
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,PER,Sergio Perez,Racing Point,18,7,0,0,0,53,27,8
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,VER,Max Verstappen,Red Bull Racing,19,8,0,0,0,53,27,10
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,GIO,Antonio Giovinazzi,Alfa Romeo Racing,10,9,0,0,0,53,27,11
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,NOR,Lando Norris,McLaren,16,10,0,0,0,53,27,14
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,GAS,Pierre Gasly,Toro Rosso,17,11,0,0,0,53,27,9
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,STR,Lance Stroll,Racing Point,9,12,0,0,0,53,27,16
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,VET,Sebastian Vettel,Ferrari,4,13,0,0,0,53,27,18
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,RUS,George Russell,Williams,14,14,0,0,0,53,27,17
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,RAI,Kimi Räikkönen,Alfa Romeo Racing,20,15,0,0,0,53,27,20
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,GRO,Romain Grosjean,Haas F1 Team,13,16,0,0,0,53,27,19
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,KUB,Robert Kubica,Williams,15,17,0,0,0,53,27,15
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,MAG,Kevin Magnussen,Haas F1 Team,11,18,0,0,0,53,27,13
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,KVY,Daniil Kvyat,Toro Rosso,12,19,0,0,0,53,27,7
+2019-14,2019,14,Italian Grand Prix,Monza,2019-09-08,SAI,Carlos Sainz,McLaren,7,20,0,0,0,53,27,6

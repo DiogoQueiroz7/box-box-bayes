@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,VER,Max Verstappen,Red Bull Racing,2,1,1,0,0,50,25,1
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,RUS,George Russell,Mercedes,4,2,0,0,0,50,25,2
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,ANT,Kimi Antonelli,Mercedes,17,3,0,0,0,50,25,6
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,LEC,Charles Leclerc,Ferrari,9,4,0,0,0,50,25,9
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,SAI,Carlos Sainz,Williams,3,5,0,0,0,50,25,10
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,HAD,Isack Hadjar,Racing Bulls,8,6,0,0,0,50,25,11
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,HUL,Nico Hulkenberg,Kick Sauber,11,7,0,0,0,50,25,4
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,HAM,Lewis Hamilton,Ferrari,19,8,0,0,0,50,25,5
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,OCO,Esteban Ocon,Haas F1 Team,13,9,0,0,0,50,25,7
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,BEA,Oliver Bearman,Haas F1 Team,14,10,0,0,0,50,25,13
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,ALO,Fernando Alonso,Aston Martin,7,11,0,0,0,50,25,12
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,TSU,Yuki Tsunoda,Red Bull Racing,20,12,0,0,0,50,25,14
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,GAS,Pierre Gasly,Alpine,10,13,0,0,0,50,25,15
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,LAW,Liam Lawson,Racing Bulls,6,14,0,0,0,50,25,16
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,COL,Franco Colapinto,Alpine,15,15,0,0,0,50,25,17
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,ALB,Alexander Albon,Williams,16,16,0,0,0,50,25,18
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,BOR,Gabriel Bortoleto,Kick Sauber,18,17,0,0,0,50,25,
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,STR,Lance Stroll,Aston Martin,12,18,0,0,0,50,25,
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,NOR,Lando Norris,McLaren,1,19,0,0,0,50,25,3
+2025-22,2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,PIA,Oscar Piastri,McLaren,5,20,0,0,0,50,25,8

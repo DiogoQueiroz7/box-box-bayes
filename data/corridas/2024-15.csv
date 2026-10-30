@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,NOR,Lando Norris,McLaren,1,1,1,0,0,72,36,1
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,VER,Max Verstappen,Red Bull Racing,2,2,0,0,0,72,36,2
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,LEC,Charles Leclerc,Ferrari,6,3,0,0,0,72,36,3
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,PIA,Oscar Piastri,McLaren,3,4,0,0,0,72,36,5
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,SAI,Carlos Sainz,Ferrari,10,5,0,0,0,72,36,7
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,PER,Sergio Perez,Red Bull Racing,5,6,0,0,0,72,36,6
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,RUS,George Russell,Mercedes,4,7,0,0,0,72,36,4
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,HAM,Lewis Hamilton,Mercedes,14,8,0,0,0,72,36,8
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,GAS,Pierre Gasly,Alpine,9,9,0,0,0,72,36,12
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,ALO,Fernando Alonso,Aston Martin,7,10,0,0,0,72,36,13
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,HUL,Nico Hulkenberg,Haas F1 Team,12,11,0,0,0,72,36,9
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,RIC,Daniel Ricciardo,RB,13,12,0,0,0,72,36,15
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,STR,Lance Stroll,Aston Martin,8,13,0,0,0,72,36,14
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,ALB,Alexander Albon,Williams,19,14,0,0,0,72,36,11
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,OCO,Esteban Ocon,Alpine,15,15,0,0,0,72,36,18
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,SAR,Logan Sargeant,Williams,18,16,0,0,0,72,36,17
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,TSU,Yuki Tsunoda,RB,11,17,0,0,0,72,36,19
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,MAG,Kevin Magnussen,Haas F1 Team,20,18,0,0,0,72,36,10
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,BOT,Valtteri Bottas,Kick Sauber,16,19,0,0,0,72,36,16
+2024-15,2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,ZHO,Guanyu Zhou,Kick Sauber,17,20,0,0,0,72,36,20

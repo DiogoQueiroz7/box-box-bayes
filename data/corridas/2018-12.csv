@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,70,35,2
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,VET,Sebastian Vettel,Ferrari,4,2,0,0,0,70,35,1
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,RAI,Kimi Räikkönen,Ferrari,3,3,0,0,0,70,35,4
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,RIC,Daniel Ricciardo,Red Bull Racing,12,4,0,0,0,70,35,5
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,BOT,Valtteri Bottas,Mercedes,2,5,0,0,0,70,35,3
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,GAS,Pierre Gasly,Toro Rosso,6,6,0,0,0,70,35,6
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,MAG,Kevin Magnussen,Haas F1 Team,9,7,0,0,0,70,35,9
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,ALO,Fernando Alonso,McLaren,11,8,0,0,0,70,35,7
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,SAI,Carlos Sainz,Renault,5,9,0,0,0,70,35,11
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,GRO,Romain Grosjean,Haas F1 Team,10,10,0,0,0,70,35,12
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,HAR,Brendon Hartley,Toro Rosso,8,11,0,0,0,70,35,13
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,HUL,Nico Hulkenberg,Renault,13,12,0,0,0,70,35,14
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,OCO,Esteban Ocon,Force India,18,13,0,0,0,70,35,10
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,PER,Sergio Perez,Force India,19,14,0,0,0,70,35,15
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,ERI,Marcus Ericsson,Sauber,14,15,0,0,0,70,35,17
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,SIR,Sergey Sirotkin,Williams,20,16,0,0,0,70,35,18
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,STR,Lance Stroll,Williams,15,17,0,0,0,70,35,16
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,VAN,Stoffel Vandoorne,McLaren,16,18,0,0,0,70,35,8
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,VER,Max Verstappen,Red Bull Racing,7,19,0,0,0,70,35,
+2018-12,2018,12,Hungarian Grand Prix,Budapest,2018-07-29,LEC,Charles Leclerc,Sauber,17,20,0,0,0,70,35,

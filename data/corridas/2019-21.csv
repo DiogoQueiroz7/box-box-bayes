@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,55,28,1
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,VER,Max Verstappen,Red Bull Racing,2,2,0,0,0,55,28,3
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,LEC,Charles Leclerc,Ferrari,3,3,0,0,0,55,28,2
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,BOT,Valtteri Bottas,Mercedes,20,4,0,0,0,55,28,4
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,VET,Sebastian Vettel,Ferrari,4,5,0,0,0,55,28,5
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,ALB,Alexander Albon,Red Bull Racing,5,6,0,0,0,55,28,6
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,PER,Sergio Perez,Racing Point,10,7,0,0,0,55,28,7
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,NOR,Lando Norris,McLaren,6,8,0,0,0,55,28,9
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,KVY,Daniil Kvyat,Toro Rosso,13,9,0,0,0,55,28,8
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,SAI,Carlos Sainz,McLaren,8,10,0,0,0,55,28,11
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,RIC,Daniel Ricciardo,Renault,7,11,0,0,0,55,28,12
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,HUL,Nico Hulkenberg,Renault,9,12,0,0,0,55,28,10
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,RAI,Kimi Räikkönen,Alfa Romeo Racing,17,13,0,0,0,55,28,14
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,MAG,Kevin Magnussen,Haas F1 Team,14,14,0,0,0,55,28,13
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,GRO,Romain Grosjean,Haas F1 Team,15,15,0,0,0,55,28,15
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,GIO,Antonio Giovinazzi,Alfa Romeo Racing,16,16,0,0,0,55,28,17
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,RUS,George Russell,Williams,18,17,0,0,0,55,28,16
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,GAS,Pierre Gasly,Toro Rosso,11,18,0,0,0,55,28,20
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,KUB,Robert Kubica,Williams,19,19,0,0,0,55,28,19
+2019-21,2019,21,Abu Dhabi Grand Prix,Yas Island,2019-12-01,STR,Lance Stroll,Racing Point,12,20,0,0,0,55,28,18

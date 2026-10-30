@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,PIA,Oscar Piastri,McLaren,1,1,1,0,0,57,29,1
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,RUS,George Russell,Mercedes,3,2,0,0,0,57,29,2
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,NOR,Lando Norris,McLaren,6,3,0,0,0,57,29,4
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,LEC,Charles Leclerc,Ferrari,2,4,0,0,0,57,29,3
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,HAM,Lewis Hamilton,Ferrari,9,5,0,0,0,57,29,5
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,VER,Max Verstappen,Red Bull Racing,7,6,0,0,0,57,29,14
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,GAS,Pierre Gasly,Alpine,4,7,0,0,0,57,29,10
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,OCO,Esteban Ocon,Haas F1 Team,14,8,0,0,0,57,29,12
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,TSU,Yuki Tsunoda,Red Bull Racing,10,9,0,0,0,57,29,6
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,BEA,Oliver Bearman,Haas F1 Team,20,10,0,0,0,57,29,9
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,ANT,Kimi Antonelli,Mercedes,5,11,0,0,0,57,29,13
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,ALB,Alexander Albon,Williams,15,12,0,0,0,57,29,8
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,HAD,Isack Hadjar,Racing Bulls,12,13,0,0,0,57,29,19
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,DOO,Jack Doohan,Alpine,11,14,0,0,0,57,29,17
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,ALO,Fernando Alonso,Aston Martin,13,15,0,0,0,57,29,11
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,LAW,Liam Lawson,Racing Bulls,17,16,0,0,0,57,29,16
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,STR,Lance Stroll,Aston Martin,19,17,0,0,0,57,29,15
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,BOR,Gabriel Bortoleto,Kick Sauber,18,18,0,0,0,57,29,18
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,SAI,Carlos Sainz,Williams,8,19,0,0,0,57,29,7
+2025-04,2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,HUL,Nico Hulkenberg,Kick Sauber,16,20,0,0,0,57,29,20

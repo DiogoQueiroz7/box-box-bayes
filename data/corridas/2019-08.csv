@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,53,27,1
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,BOT,Valtteri Bottas,Mercedes,2,2,0,0,0,53,27,2
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,LEC,Charles Leclerc,Ferrari,3,3,0,0,0,53,27,3
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,VER,Max Verstappen,Red Bull Racing,4,4,0,0,0,53,27,4
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,VET,Sebastian Vettel,Ferrari,7,5,0,0,0,53,27,5
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,SAI,Carlos Sainz,McLaren,6,6,0,0,0,53,27,9
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,RAI,Kimi Räikkönen,Alfa Romeo Racing,12,7,0,0,0,53,27,6
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,HUL,Nico Hulkenberg,Renault,13,8,0,0,0,53,27,7
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,NOR,Lando Norris,McLaren,5,9,0,0,0,53,27,10
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,GAS,Pierre Gasly,Red Bull Racing,9,10,0,0,0,53,27,14
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,RIC,Daniel Ricciardo,Renault,8,11,0,0,0,53,27,12
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,PER,Sergio Perez,Racing Point,14,12,0,0,0,53,27,15
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,STR,Lance Stroll,Racing Point,17,13,0,0,0,53,27,8
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,KVY,Daniil Kvyat,Toro Rosso,19,14,0,0,0,53,27,11
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,ALB,Alexander Albon,Toro Rosso,11,15,0,0,0,53,27,17
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,GIO,Antonio Giovinazzi,Alfa Romeo Racing,10,16,0,0,0,53,27,16
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,MAG,Kevin Magnussen,Haas F1 Team,15,17,0,0,0,53,27,18
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,KUB,Robert Kubica,Williams,18,18,0,0,0,53,27,20
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,RUS,George Russell,Williams,20,19,0,0,0,53,27,19
+2019-08,2019,8,French Grand Prix,Le Castellet,2019-06-23,GRO,Romain Grosjean,Haas F1 Team,16,20,0,0,0,53,27,13

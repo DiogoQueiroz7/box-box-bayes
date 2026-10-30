@@ -1,0 +1,20 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,NOR,Lando Norris,McLaren,3,1,1,1,41,52,26,2
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,PIA,Oscar Piastri,McLaren,2,2,0,1,41,52,26,1
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,HUL,Nico Hulkenberg,Kick Sauber,19,3,0,1,41,52,26,4
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,HAM,Lewis Hamilton,Ferrari,5,4,0,1,41,52,26,6
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,VER,Max Verstappen,Red Bull Racing,1,5,0,1,41,52,26,10
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,GAS,Pierre Gasly,Alpine,8,6,0,1,41,52,26,5
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,STR,Lance Stroll,Aston Martin,17,7,0,1,41,52,26,3
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,ALB,Alexander Albon,Williams,13,8,0,1,41,52,26,11
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,ALO,Fernando Alonso,Aston Martin,7,9,0,1,41,52,26,8
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,RUS,George Russell,Mercedes,4,10,0,1,41,52,26,7
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,BEA,Oliver Bearman,Haas F1 Team,18,11,0,1,41,52,26,14
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,SAI,Carlos Sainz,Williams,9,12,0,1,41,52,26,9
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,OCO,Esteban Ocon,Haas F1 Team,14,13,0,1,41,52,26,13
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,LEC,Charles Leclerc,Ferrari,6,14,0,1,41,52,26,12
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,TSU,Yuki Tsunoda,Red Bull Racing,11,15,0,1,41,52,26,15
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,ANT,Kimi Antonelli,Mercedes,10,16,0,1,41,52,26,
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,HAD,Isack Hadjar,Racing Bulls,12,17,0,1,41,52,26,
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,BOR,Gabriel Bortoleto,Kick Sauber,16,18,0,1,41,52,26,
+2025-12,2025,12,British Grand Prix,Silverstone,2025-07-06,LAW,Liam Lawson,Racing Bulls,15,19,0,1,41,52,26,

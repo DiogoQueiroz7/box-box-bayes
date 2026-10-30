@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,VER,Max Verstappen,Red Bull Racing,1,1,1,0,0,53,27,1
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,HAM,Lewis Hamilton,Mercedes,2,2,0,0,0,53,27,2
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,PER,Sergio Perez,Red Bull Racing,4,3,0,0,0,53,27,4
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,BOT,Valtteri Bottas,Mercedes,3,4,0,0,0,53,27,3
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,NOR,Lando Norris,McLaren,8,5,0,0,0,53,27,11
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,RIC,Daniel Ricciardo,McLaren,10,6,0,0,0,53,27,8
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,GAS,Pierre Gasly,AlphaTauri,6,7,0,0,0,53,27,10
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,ALO,Fernando Alonso,Alpine,9,8,0,0,0,53,27,14
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,VET,Sebastian Vettel,Aston Martin,12,9,0,0,0,53,27,5
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,STR,Lance Stroll,Aston Martin,19,10,0,0,0,53,27,6
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,SAI,Carlos Sainz,Ferrari,5,11,0,0,0,53,27,9
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,RUS,George Russell,Williams,14,12,0,0,0,53,27,17
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,TSU,Yuki Tsunoda,AlphaTauri,20,13,0,0,0,53,27,16
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,OCO,Esteban Ocon,Alpine,11,14,0,0,0,53,27,12
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,GIO,Antonio Giovinazzi,Alfa Romeo Racing,13,15,0,0,0,53,27,13
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,LEC,Charles Leclerc,Ferrari,7,16,0,0,0,53,27,7
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,RAI,Kimi Räikkönen,Alfa Romeo Racing,17,17,0,0,0,53,27,15
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,LAT,Nicholas Latifi,Williams,16,18,0,0,0,53,27,18
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,MSC,Mick Schumacher,Haas F1 Team,15,19,0,0,0,53,27,20
+2021-07,2021,7,French Grand Prix,Le Castellet,2021-06-20,MAZ,Nikita Mazepin,Haas F1 Team,18,20,0,0,0,53,27,19

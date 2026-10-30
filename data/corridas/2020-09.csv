@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,HAM,Lewis Hamilton,Mercedes,1,1,1,0,0,59,30,1
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,BOT,Valtteri Bottas,Mercedes,2,2,0,0,0,59,30,2
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,ALB,Alexander Albon,Red Bull Racing,4,3,0,0,0,59,30,3
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,RIC,Daniel Ricciardo,Renault,8,4,0,0,0,59,30,5
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,PER,Sergio Perez,Racing Point,7,5,0,0,0,59,30,6
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,NOR,Lando Norris,McLaren,11,6,0,0,0,59,30,8
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,KVY,Daniil Kvyat,AlphaTauri,12,7,0,0,0,59,30,9
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,LEC,Charles Leclerc,Ferrari,5,8,0,0,0,59,30,7
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,RAI,Kimi Räikkönen,Alfa Romeo Racing,13,9,0,0,0,59,30,13
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,VET,Sebastian Vettel,Ferrari,14,10,0,0,0,59,30,11
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,RUS,George Russell,Williams,18,11,0,0,0,59,30,10
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,GRO,Romain Grosjean,Haas F1 Team,15,12,0,0,0,59,30,12
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,STR,Lance Stroll,Racing Point,6,13,0,0,0,59,30,4
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,OCO,Esteban Ocon,Renault,10,14,0,0,0,59,30,
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,LAT,Nicholas Latifi,Williams,19,15,0,0,0,59,30,
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,MAG,Kevin Magnussen,Haas F1 Team,20,16,0,0,0,59,30,
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,GIO,Antonio Giovinazzi,Alfa Romeo Racing,17,17,0,0,0,59,30,
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,SAI,Carlos Sainz,McLaren,9,18,0,0,0,59,30,
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,VER,Max Verstappen,Red Bull Racing,3,19,0,0,0,59,30,
+2020-09,2020,9,Tuscan Grand Prix,Mugello,2020-09-13,GAS,Pierre Gasly,AlphaTauri,16,20,0,0,0,59,30,

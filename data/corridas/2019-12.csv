@@ -1,0 +1,21 @@
+corrida_id,ano,rodada,gp,circuito,data,piloto,nome,equipe,grid,posicao_final,venceu,choveu,voltas_com_chuva,total_voltas,volta_meio,posicao_meio
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,HAM,Lewis Hamilton,Mercedes,3,1,1,0,0,70,35,2
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,VER,Max Verstappen,Red Bull Racing,1,2,0,0,0,70,35,1
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,VET,Sebastian Vettel,Ferrari,5,3,0,0,0,70,35,3
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,LEC,Charles Leclerc,Ferrari,4,4,0,0,0,70,35,4
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,SAI,Carlos Sainz,McLaren,8,5,0,0,0,70,35,5
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,GAS,Pierre Gasly,Red Bull Racing,6,6,0,0,0,70,35,6
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,RAI,Kimi Räikkönen,Alfa Romeo Racing,10,7,0,0,0,70,35,7
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,BOT,Valtteri Bottas,Mercedes,2,8,0,0,0,70,35,10
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,NOR,Lando Norris,McLaren,7,9,0,0,0,70,35,9
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,ALB,Alexander Albon,Toro Rosso,12,10,0,0,0,70,35,15
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,PER,Sergio Perez,Racing Point,16,11,0,0,0,70,35,13
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,HUL,Nico Hulkenberg,Renault,11,12,0,0,0,70,35,8
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,MAG,Kevin Magnussen,Haas F1 Team,14,13,0,0,0,70,35,11
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,RIC,Daniel Ricciardo,Renault,20,14,0,0,0,70,35,12
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,KVY,Daniil Kvyat,Toro Rosso,13,15,0,0,0,70,35,14
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,RUS,George Russell,Williams,15,16,0,0,0,70,35,17
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,STR,Lance Stroll,Racing Point,18,17,0,0,0,70,35,18
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,GIO,Antonio Giovinazzi,Alfa Romeo Racing,17,18,0,0,0,70,35,19
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,KUB,Robert Kubica,Williams,19,19,0,0,0,70,35,20
+2019-12,2019,12,Hungarian Grand Prix,Budapest,2019-08-04,GRO,Romain Grosjean,Haas F1 Team,9,20,0,0,0,70,35,16
